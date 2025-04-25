@@ -107,6 +107,31 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 ### 2.3.2. User Task Matrix
 
+Para lograr sus objetivos en la plataforma, este User Task Matrix muestra las tareas que realizan los User Persona de dos segmentos objetivos: Agricultores orgánicos y Consumidores que compran orgánicos para el hogar. Es importante destacar que estas tareas son actividades que los usuarios deben realizar independientemente de si existe una solución digital para facilitarlas; no deben confundirse con funcionalidades de software.
+
+| Tarea / Funcionalidad                                | Agricultores orgánicos – Frecuencia | Agricultores orgánicos – Importancia | Consumidores que compran orgánicos – Frecuencia | Consumidores que compran orgánicos – Importancia |
+| ----------------------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------------- | ------------------------------------------------ |
+| Registrar cuenta                                      | baja                                | alta                                 | baja                                           | alta                                             |
+| Completar perfil                                      | baja                                | alta                                 | baja                                           | media                                            |
+| Publicar disponibilidad de cosecha                    | media                               | alta                                 | N/A                                            | N/A                                              |
+| Programar recolección de productos                    | media                               | alta                                 | N/A                                            | N/A                                              |
+| Ver tarifas de transporte y comparar rutas            | media                               | media                                | media                                          | media                                            |
+| Monitorizar estado de recogida/transporte             | alta                                | alta                                 | media                                          | alta                                             |
+| Recibir notificaciones en tiempo real                 | alta                                | alta                                 | media                                          | alta                                             |
+| Consultar historial de transacciones/envíos           | media                               | media                                | baja                                           | media                                            |
+| Calificar al transportista                            | baja                                | media                                | baja                                           | media                                            |
+| Contactar soporte o atención al cliente               | baja                                | alta                                 | baja                                           | alta                                             |
+| Explorar catálogo de productos disponibles            | N/A                                 | N/A                                  | alta                                           | alta                                             |
+| Filtrar productos por tipo, precio u origen           | N/A                                 | N/A                                  | alta                                           | alta                                             |
+| Realizar pedido de productos                          | N/A                                 | N/A                                  | media                                          | alta                                             |
+
+En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento de usuarios:
+
+
+
+
+
+
 ### 2.3.3. User Journey Mapping
 
 En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
