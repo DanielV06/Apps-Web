@@ -28,13 +28,13 @@
 ## Integrantes:
 <div align="center">
 
-| Nombres y Apellidos                  | Codigo     |
-| ------------------------------------ | ---------- |
-| Daniel Valdizan Grijalba             | u202311566 |
-|              |  |
-| | |
-| |  |
-| |  |
+| Nombres y Apellidos      | Codigo     |
+|--------------------------|------------|
+| Daniel Valdizan Grijalba | u202311566 |
+| Roy Fernández Remón      | u20221b778 |
+|                          |            |
+|                          |            |
+|                          |            |
 
 
 </div>
@@ -50,17 +50,17 @@
 
 # Project Report Collaboration Insights
 
-## **TP1**
+## **TB1**
 
-Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
+Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
 
-| Integrante | Tareas Asignadas |
-| :---- | :---- |
-|  |  |
-| |  |
-|  |  |
-|	 | |
-|  | |
+| Integrante          | Tareas Asignadas |
+|:--------------------| :---- |
+| Roy Fernández Remón |  |
+|                     |  |
+|                     |  |
+| 	                   | |
+|                     | |
 
 
 # Tabla de contenidos
