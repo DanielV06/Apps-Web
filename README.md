@@ -24,7 +24,7 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 **Segmento 1 - Productores de productos sostenibles:**
 
-![User Person 1](ImgResources/María Quispe Mamani.png)
+![User Person 1](ImgResources/Jesús Sideral Carrion.png)
 
 **Segmento 2 - Personas que buscan productos orgánicos de calidad en casa:**
 
