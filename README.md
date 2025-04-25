@@ -163,7 +163,9 @@ En esta sección se presentan los User Journey Mapping de los segmentos, que rea
 
 <img src="assets/images/ImgResources/journey%20map%201.png"/>
 
+**Segmento 2 - Consumidores que compran orgánicos para el hogar:**
 
+<img src="assets/images/ImgResources/journey%20map%202.png"/>
 
 ### 2.3.4. Empathy Mapping
 
