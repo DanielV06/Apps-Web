@@ -183,4 +183,6 @@ En esta sección mostramos los empathy mapping de los segmentos realizados con l
 
 En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los dos segmentos objetivos.
 
+<img src="assets/images/ImgResources/Scenario%20Mapping%201.jpg"/>
+
 ## 2.4. Ubiquitous Language
