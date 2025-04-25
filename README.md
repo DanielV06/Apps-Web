@@ -32,7 +32,7 @@
 |--------------------------|------------|
 | Daniel Valdizan Grijalba | u202311566 |
 | Roy Fernández Remón      | u20221b778 |
-|                          |            |
+| Oskar Rodrigo Sosa Soto  | u202212214 |
 |                          |            |
 |                          |            |
 
@@ -57,7 +57,7 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 | Integrante          | Tareas Asignadas |
 |:--------------------| :---- |
 | Roy Fernández Remón |  |
-|                     |  |
+|Oskar Rodrigo Sosa   |  |
 |                     |  |
 | 	                   | |
 |                     | |
