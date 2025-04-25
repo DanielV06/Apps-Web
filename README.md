@@ -175,6 +175,10 @@ En esta sección mostramos los empathy mapping de los segmentos realizados con l
 
 <img src="assets/images/ImgResources/Empathy%20map%201.png"/>
 
+**Segmento 2 - Consumidores que compran orgánicos para el hogar:**
+
+<img src="assets/images/ImgResources/Empathy%20map%202.png"/>
+
 ### 2.3.5. As-is Scenario Mapping
 
 En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los dos segmentos objetivos.
