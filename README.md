@@ -42,6 +42,49 @@ Con el objetivo de comprender a profundidad las necesidades, expectativas y prob
 
 ### 2.2.1. Diseño de entrevistas
 
+Objetivo: Validar necesidades logísticas específicas, percepciones sobre sostenibilidad y disposición a pagar por un servicio ecológico.
+
+Público objetivo: Productores ecológicos, transportistas independientes, dueños de tiendas eco-amigables, consumidores de productos verdes.
+
+### Cliente 
+¿Con qué frecuencia compra productos orgánicos o sostenibles?
+
+¿Qué dificultades encuentra para acceder a estos productos?
+
+¿Qué tan importante es para usted que el transporte de los productos también sea sostenible?
+
+¿Estaría dispuesto(a) a pagar un poco más por un servicio de entrega que reduzca el impacto ambiental?
+
+¿Qué valoraría más en un servicio de entrega sostenible? (Rapidez, cuidado del producto, huella de carbono baja, etc.)
+
+¿Cómo le gustaría recibir sus pedidos? (En casa, en un punto de recojo, con horarios flexibles, etc.)
+
+### Dueño de tienda o encargado de feria eco-friendly
+¿Actualmente cómo gestiona el transporte de sus productos sostenibles?
+
+¿Qué problemas ha identificado con los servicios logísticos tradicionales?
+
+¿Qué importancia le da a que el transporte esté alineado a los valores de sostenibilidad de su tienda o feria?
+
+¿Qué beneficios esperaría de un servicio de logística verde?
+
+¿Qué tan relevante sería para usted recibir reportes de impacto ambiental de cada envío?
+
+¿Preferiría opciones como empaques retornables o compostables en las entregas?
+
+### Productor de productos sostenibles
+¿Cómo transporta actualmente sus productos hacia tiendas, ferias o clientes?
+
+¿Qué dificultades logísticas enfrenta más seguido? (Costos, daños, demoras, falta de rutas eficientes, etc.)
+
+¿Qué tan importante sería para usted contar con un servicio de transporte especializado en productos sostenibles?
+
+¿Qué atributos consideraría esenciales en un servicio logístico verde? (Cuidado del producto, rutas optimizadas, tarifas justas, etc.)
+
+¿Cómo afectaría a su marca o negocio el trabajar con un servicio de logística que promueva la sostenibilidad?
+
+¿Qué tan dispuesto estaría a integrarse a programas de logística colaborativa (agrupamiento de envíos con otros productores)?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
