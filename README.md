@@ -99,11 +99,11 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 **Segmento 1 - Productores de productos sostenibles:**
 
-![User Person 1](ImgResources/Jesús Sideral Carrion.png)
+<img src="assets/images/ImgResources/Jesús%20Sideral%20Carrion.png"/>
 
 **Segmento 2 - Personas que buscan productos orgánicos de calidad en casa:**
 
-![User Person 2](ImgResources/María Quispe Mamani.png)
+<img src="assets/images/ImgResources/María%20Quispe%20Mamani.png"/>
 
 ### 2.3.2. User Task Matrix
 
