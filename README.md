@@ -494,6 +494,9 @@ Se interesan por iniciativas que apoyan la economía local y reducen el impacto 
 ## 2.1. Competidores.
 
 ### 2.1.1. Análisis competitivo.
+Actualmente, el mercado logístico peruano cuenta con varios actores, pero pocos están alineados con las necesidades específicas del segmento ecológico. A continuación, se presenta un análisis de los principales competidores directos e indirectos:
+
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
