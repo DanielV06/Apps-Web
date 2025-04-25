@@ -155,13 +155,15 @@ En base al User Task Matrix presentado, podemos destacar las siguientes tareas c
 | Motivaciones               | Mejorar ingresos, cuidar la calidad post-cosecha                    | Salud familiar, conveniencia y apoyo al productor local              |
 | Frustraciones clave        | Retrasos logísticos que dañan la cosecha y elevan costos            | Entregas tardías o empaques inadecuados que afectan la calidad       |
 
-
-
-
-
 ### 2.3.3. User Journey Mapping
 
 En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
+**Segmento 1 - Agricultores orgánicos:**
+
+<img src="assets/images/ImgResources/journey%20map%201.png"/>
+
+
 
 ### 2.3.4. Empathy Mapping
 
