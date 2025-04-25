@@ -22,6 +22,10 @@ En esta sección analizamos la información recopilada en las entrevistas realiz
 
 Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
+**Segmento 2 - Personas que buscan productos orgánicos de calidad en casa:**
+
+
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
