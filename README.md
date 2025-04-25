@@ -183,6 +183,12 @@ En esta sección mostramos los empathy mapping de los segmentos realizados con l
 
 En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los dos segmentos objetivos.
 
+**Segmento 1 - Agricultores orgánicos:**
+
 <img src="assets/images/ImgResources/Scenario%20Mapping%201.jpg"/>
+
+**Segmento 2 - Consumidores que compran orgánicos para el hogar:**
+
+<img src="assets/images/ImgResources/Scenario%20Mapping%202.jpg"/>
 
 ## 2.4. Ubiquitous Language
