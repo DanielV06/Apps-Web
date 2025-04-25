@@ -22,9 +22,13 @@ En esta sección analizamos la información recopilada en las entrevistas realiz
 
 Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
+**Segmento 1 - Productores de productos sostenibles:**
+
+![User Person 1](ImgResources/María Quispe Mamani.png)
+
 **Segmento 2 - Personas que buscan productos orgánicos de calidad en casa:**
 
-
+![User Person 2](ImgResources/María Quispe Mamani.png)
 
 ### 2.3.2. User Task Matrix
 
