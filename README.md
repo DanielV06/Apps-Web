@@ -171,6 +171,10 @@ En esta sección se presentan los User Journey Mapping de los segmentos, que rea
 
 En esta sección mostramos los empathy mapping de los segmentos realizados con la información recopilada de componentes anteriores.
 
+**Segmento 1 - Agricultores orgánicos:**
+
+<img src="assets/images/ImgResources/Empathy%20map%201.png"/>
+
 ### 2.3.5. As-is Scenario Mapping
 
 En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los dos segmentos objetivos.
