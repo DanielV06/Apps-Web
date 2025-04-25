@@ -46,8 +46,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
-| 1.0 | 22/04/2025 |  |  |
-| 1.1 | 22/04/2025 |  | |
+| 1.0 |  |  |  |
+| 1.1 |  |  | |
 
 # Project Report Collaboration Insights
 
