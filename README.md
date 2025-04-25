@@ -1,3 +1,91 @@
+<h1 align="center">
+<strong style="font-size:25px;">Universidad Informe de Trabajo Final</strong>
+</h1>
+
+---
+
+<p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
+
+<p align="center">
+  <img src="assets/logos/LogoUPC.png" width="180" />
+</p>
+
+<p align="center">Ingenieria de Software</p>
+<p align="center">5to ciclo</p>
+
+---
+
+<p align="center"><strong>Código: </strong>1ASI0730</p>
+<p align="center"><strong>Curso:</strong> Aplicaciones Web</p>
+<p align="center"><strong>Sección:</strong> 4381</p>
+
+<p align="center"><strong>Docente:</strong> Oscar Ivan Villafuerte Bazan</p>
+
+<p align="center"><strong>Proyecto:</strong> GreenLogist</p>
+
+
+
+## Integrantes:
+<div align="center">
+
+| Nombres y Apellidos                  | Codigo     |
+| ------------------------------------ | ---------- |
+| Daniel Valdizan Grijalba             | u202311566 |
+|              |  |
+| | |
+| |  |
+| |  |
+
+
+</div>
+
+<p align="center">Abril 2025</p>
+
+# Registro de Versiones del Informe
+
+| Versión | Fecha | Autor | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| 1.0 |  |  |  |
+| 1.1 |  |  | |
+
+# Project Report Collaboration Insights
+
+## **TP1**
+
+Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
+
+| Integrante | Tareas Asignadas |
+| :---- | :---- |
+|  |  |
+| |  |
+|  |  |
+|	 | |
+|  | |
+
+
+# Tabla de contenidos
+
+
+[Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+
+# Student Outcome
+
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
+| :---- | :---- | :---- |
+|  |  |  |
+|  |  |  |
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
