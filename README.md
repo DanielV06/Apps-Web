@@ -127,6 +127,33 @@ Para lograr sus objetivos en la plataforma, este User Task Matrix muestra las ta
 
 En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento de usuarios:
 
+**Agricultores orgánicos**
+
+- Monitorizar estado de recogida/transporte: Ver en tiempo real la ubicación de sus cargamentos y el progreso de la ruta, para anticipar y mitigar posibles retrasos o incidencias que puedan dañar sus productos.
+- Recibir notificaciones en tiempo real: Alertas automáticas (por app o SMS) sobre cambios de estado: llegada del transportista, inicio de la ruta, eventualidades en camino y entrega completada, de modo que siempre esté informado sin tener que consultar manualmente.
+
+**Consumidores que compran orgánicos**
+
+- Explorar catálogo de productos disponibles: Navegar por el listado completo de frutas, verduras y otros orgánicos ofertados, con imágenes, precios y descripciones, para confeccionar su pedido de forma cómoda y rápida.
+- Filtrar productos por tipo, precio u origen: Aplicar filtros, por ejemplo: (“tubérculos”, “menos de S/ 10”, “Cajamarca”) para encontrar justo lo que necesita sin perder tiempo revisando todo el catálogo.
+
+### **Principales diferencias y coincidencias entre los segmentos:**
+
+**Coincidencias entre los Segmentos**
+- Compromiso con la sostenibilidad: Ambos segmentos valoran que la plataforma promueva prácticas ecológicas y reduzca la huella de carbono.
+- Transparencia y trazabilidad: Tanto agricultores como consumidores exigen información clara sobre el estado de sus envíos y el origen de los productos.
+- Tarifas y costos: Los dos grupos esperan precios justos y sin cargos ocultos.
+- Canales de acceso: Usan indistintamente la aplicación web o móvil para interactuar con la plataforma.
+
+**Diferencias entre los Segmentos**
+
+| Aspecto                    | Agricultores orgánicos                                              | Consumidores que compran orgánicos para el hogar                     |
+| -------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Objetivo principal         | Optimizar recolecciones, reducir pérdidas y ampliar mercados urbanos | Recibir productos frescos con comodidad y regularidad                |
+| Frecuencia de uso          | Alta: programan y supervisan rutas semanal o diariamente según cosecha | Media-baja: hacen pedidos semanales o mensuales según demanda        |
+| Funcionalidades críticas   | Monitorización de envío, notificaciones de recolección              | Exploración de catálogo, filtrado por tipo/precio/origen             |
+| Motivaciones               | Mejorar ingresos, cuidar la calidad post-cosecha                    | Salud familiar, conveniencia y apoyo al productor local              |
+| Frustraciones clave        | Retrasos logísticos que dañan la cosecha y elevan costos            | Entregas tardías o empaques inadecuados que afectan la calidad       |
 
 
 
