@@ -192,3 +192,27 @@ En esta sección se realizaron las distintas etapas de preparación, tales como 
 <img src="assets/images/ImgResources/Scenario%20Mapping%202.jpg"/>
 
 ## 2.4. Ubiquitous Language
+
+| Término (Inglés)           | Término (Español)            | Definición                                                                                                                 |
+|----------------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Organic Farmer             | Agricultor Orgánico         | Persona que cultiva y suministra productos orgánicos para su distribución mediante la plataforma.                          |
+| Consumer                   | Consumidor                  | Usuario que compra productos orgánicos para consumo personal o familiar a través de la plataforma.                         |
+| Transporter                | Transportista               | Persona o empresa responsable de la recolección y entrega de productos entre productores y consumidores.                   |
+| Logistics Platform         | Plataforma Logística        | Sistema digital (Greenlogist) que conecta productores, transportistas y consumidores para gestionar envíos y pedidos.      |
+| Marketplace                | Mercado                     | Sección de la plataforma donde los productores listan productos y los consumidores realizan pedidos.                       |
+| Product Catalog            | Catálogo de Productos       | Listado de productos orgánicos disponibles con descripciones, precios y origen.                                            |
+| Product                    | Producto Orgánico           | Bien agrícola cultivado sin agroquímicos ni pesticidas, apto para venta y transporte.                                      |
+| Collection Order           | Orden de Recogida           | Solicitud generada por el productor para programar la recolección de su cosecha por un transportista.                      |
+| Delivery Order             | Orden de Entrega            | Solicitud generada por el consumidor para recibir productos en una fecha y lugar específicos.                              |
+| Order Status               | Estado del Pedido           | Estado actual de una orden de recogida o entrega (pendiente, en tránsito, completada, cancelada).                          |
+| Pickup Window              | Ventana de Recogida         | Franja de tiempo acordada en la que el transportista debe recoger la mercancía en origen.                                  |
+| Delivery Window            | Ventana de Entrega          | Franja de tiempo acordada en la que el transportista debe entregar los productos al destino.                               |
+| Route Optimization         | Optimización de Rutas       | Cálculo de la ruta más eficiente para minimizar costos, tiempo y emisiones de carbono.                                     |
+| Real-time Tracking         | Seguimiento en Tiempo Real  | Funcionalidad que muestra la ubicación y el progreso de un envío en vivo.                                                  |
+| Carbon Footprint Report    | Informe de Huella de Carbono| Documento que cuantifica las emisiones de CO₂ asociadas a uno o varios envíos.                                             |
+| Notification               | Notificación                | Alerta (app/SMS/email) que informa al usuario sobre cambios en el estado de su pedido o envío.                             |
+| User Profile               | Perfil de Usuario           | Conjunto de datos y preferencias que definen la cuenta y la experiencia de un usuario en la plataforma.                    |
+| Rating                     | Calificación                | Evaluación que el usuario otorga al transportista o la experiencia de entrega, contribuyendo a la reputación del servicio. |
+| Payment                    | Pago                        | Transacción monetaria para financiar servicios de transporte o la compra de productos.                                     |
+| Sustainability Metric      | Métrica de Sostenibilidad   | Parámetro cuantitativo, por ejemplo (CO₂/km), que evalúa el impacto ambiental de los envíos.                               |
+
