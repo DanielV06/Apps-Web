@@ -1,12 +1,44 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+En esta sección se analiza el panorama competitivo actual en el que se desarrollará Greenlogist. Para ello, se identificaron y evaluaron empresas que ofrecen servicios logísticos similares, ya sean directos o indirectos, y se estudió su presencia, fortalezas, debilidades y grado de compromiso con la sostenibilidad. Esta información permite establecer una línea base para definir las ventajas competitivas del proyecto y trazar estrategias diferenciadoras.
 
 ### 2.1.1. Análisis copetitivo
+Actualmente, el mercado logístico peruano cuenta con varios actores, pero pocos están alineados con las necesidades específicas del segmento ecológico. A continuación, se presenta un análisis de los principales competidores directos e indirectos:
+
+| Empresa              | Tipo       |  Público objetivo              | Fortalezas                                      | Debilidades                                          |
+|----------------------|------------|--------------------------------|--------------------------------------------------|------------------------------------------------------|
+| **Urbaner**          | Nacional   |  e-commerce, retail            | Cobertura en Lima, interfaz tecnológica         | No especializado en productos ecológicos            |
+| **Chazki**           | Nacional   |  e-commerce y retail           | Amplia red de transporte urbano                 | Alto volumen, poca personalización                  |
+| **Olva Courier**     | Nacional   |  Comercio en general           | Confiabilidad, cobertura nacional               | No considera sostenibilidad, procesos rígidos       |
+| **PickApp**          | Nacional   |  Restaurantes, tiendas locales | Uso de bicicletas eléctricas                   | Alcance limitado, foco en última milla              |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+### Estrategias:
+
+- Diferenciación verde: Ofrecer un servicio 100% sostenible: vehículos ecológicos, empaques reutilizables, medición de huella de carbono.
+
+- Integración de actores clave: Conectar directamente a productores, transportistas y compradores mediante una plataforma centralizada.
+
+- Sostenibilidad como valor central: Comunicar el impacto positivo del servicio en todas las etapas (ambiental, económico y social).
+
+### Tácticas:
+
+- Alianzas estratégicas con ferias ecológicas y asociaciones de productores.
+
+- Incentivos por fidelización (tarifas reducidas para clientes recurrentes).
+
+- Capacitación para transportistas sobre manejo de productos sensibles y sostenibilidad.
+
+- Visibilidad de métricas ambientales para fortalecer la confianza de los usuarios (emisiones ahorradas, entregas verdes, etc.).
+
+- Pilotos gratuitos o con descuento en ferias y eventos verdes para obtener visibilidad rápida.
+
+
+
 ## 2.2. Entrevistas
+Con el objetivo de comprender a profundidad las necesidades, expectativas y problemáticas de nuestros usuarios potenciales, se realizaron entrevistas semiestructuradas a representantes de los segmentos
 
 ### 2.2.1. Diseño de entrevistas
 
