@@ -29,11 +29,14 @@ Nuestra visión es ser la principal plataforma de logística orgánica en Améri
 ### 1.1.2. Perfiles de integrantes del equipo
 |                    Nombre                       |                                                     Descripción                                                                                                                                                                                                                                                                                                    |
 | :------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| |   |
-| |   |
-|  |  |
-|  |  |
-| De Las Casas Latour, Sebastián | Mi nombre es Sebastián De Las Casas y tengo 21 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona paciente, optimista y que se maneja bien bajo presión. Como miembro del equipo me esforzaré en apoyar en todo lo que pueda al avance del trabajo. |
+|Daniel Valdizan Grijalba |   |
+|Roy Fernández Remón	 |   |
+| Oskar Rodrigo Sosa Soto |  |
+| Henry Kevin Diaz Gutierrez |  |
+|Sebastián De Las Casas Latour  | Mi nombre es Sebastián De Las Casas y tengo 21 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona paciente, optimista y que se maneja bien bajo presión. Como miembro del equipo me esforzaré en apoyar en todo lo que pueda al avance del trabajo. |
+
+
+
 
 ## 1.2. Solution Profile
 En esta sección se describe el perfil de la solución teniendo en cuenta el problema y las ideas que se deben resolver para fomentar un sistema logístico seguro, eficiente y sostenible para productos orgánicos.
