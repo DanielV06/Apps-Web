@@ -142,35 +142,73 @@ En esta sección se mostrará los mockups para nuestra landing, tomando en cuent
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Inicio](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/2Registro.PNG)
+![Registro](img_graficas/WebApps/Wireframes/2Registro.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/3dashboard_productores.PNG)
+**Web Apps / Productores:**
+En esta sección se muestra los wireframes pertenecientes al inicio de sesión como **PRODUCTOR**
 
-![Encabezado](img_graficas/WebApps/Wireframes/4Registrar_producto.PNG)
+![Dashboard](img_graficas/WebApps/Wireframes/3dashboard_productores.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/5solicitar_transporte.PNG)
+![Registro_Producto](img_graficas/WebApps/Wireframes/4Registrar_producto.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/6estadisticas.PNG)
+![Transporte](img_graficas/WebApps/Wireframes/5solicitar_transporte.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/7perfil_del_productor.PNG)
+![Estadisticas](img_graficas/WebApps/Wireframes/6estadisticas.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/8consumidor_home.PNG)
+![Perfil](img_graficas/WebApps/Wireframes/7perfil_del_productor.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/9consumidor_detalles_productor.PNG)
+**Web Apps / Consumidores:**
+En esta sección se muestra los wireframes pertenecientes al inicio de sesión como **CONSUMIDOR**
 
-![Encabezado](img_graficas/WebApps/Wireframes/10consumidor_carrito.PNG)
+![Home](img_graficas/WebApps/Wireframes/8consumidor_home.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/11consumidor_seguimiento.PNG)
+![DetallesProductor](img_graficas/WebApps/Wireframes/9consumidor_detalles_productor.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_1.PNG)
+![Carrito](img_graficas/WebApps/Wireframes/10consumidor_carrito.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_2.PNG)
+![Seguimientopedido](img_graficas/WebApps/Wireframes/11consumidor_seguimiento.PNG)
+
+![Historial1](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_1.PNG)
+
+![Reseña](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_2.PNG)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
+
+![Inicio](img_graficas/WebApps/Mockups/1inicio.PNG)
+
+![Registro](img_graficas/WebApps/Mockups/2Registro.PNG)
+
+**Web Apps / Productores:**
+En esta sección se detallan los mockups pertenecientes al inicio de sesión como **PRODUCTOR**, ahora siguiendo las pautas anteriormente detalladas en el estilo que la página adoptaría.
+
+![Dashboard](img_graficas/WebApps/Mockups/3dashboard_productores.PNG)
+
+![Registro_Producto](img_graficas/WebApps/Mockups/4Registrar_producto.PNG)
+
+![Transporte](img_graficas/WebApps/Mockups/5solicitar_transporte.PNG)
+
+![Estadisticas](img_graficas/WebApps/Mockups/6estadisticas.PNG)
+
+![Perfil](img_graficas/WebApps/Mockups/7perfil_del_productor.PNG)
+
+**Web Apps / Consumidores:**
+En esta sección se detallan los mockups pertenecientes al inicio de sesión como **CONSUMIDOR**, ahora siguiendo las pautas anteriormente detalladas en el estilo que la página adoptaría.
+
+![Home](img_graficas/WebApps/Mockups/8consumidor_home.PNG)
+
+![DetallesProductor](img_graficas/WebApps/Mockups/9consumidor_detalles_productor.PNG)
+
+![Carrito](img_graficas/WebApps/Mockups/10consumidor_carrito.PNG)
+
+![Seguimientopedido](img_graficas/WebApps/Mockups/11consumidor_seguimiento.PNG)
+
+![Historial1](img_graficas/WebApps/Mockups/consumidor_historial_y_reseña_1.PNG)
+
+![Reseña](img_graficas/WebApps/Mockups/consumidor_historial_y_reseña_2.PNG)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
