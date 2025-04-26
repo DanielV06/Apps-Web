@@ -60,7 +60,7 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 | Roy Fernández Remón |  |
 |Oskar Rodrigo Sosa   |  |
 |Henry Diaz Gutierrez |  |
-|Daniel Valdizán Grijalba | |
+|Daniel Valdizán Grijalba | Realización del capítulo 4 |
 | Sebastián De Las Casas Latour | Realización del capítulo 5 |
 
 
