@@ -221,6 +221,30 @@ En esta sección se detallan los mockups pertenecientes al inicio de sesión com
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+**User Flow: Productores**
+User Goal: Como productor, quiero gestionar mis productos, organizar la logística de transporte, ver estadísticas de ventas, y mantener actualizado mi perfil público.
+
+**Descripción del flujo:**
+**Happy Path:** El productor inicia sesión, ingresa a su dashboard, añade o edita productos, gestiona solicitudes de transporte, consulta sus estadísticas, y actualiza su perfil si desea.
+**Unhappy Paths:**
+Error al agregar producto → muestra mensaje de error, permite corregir datos.
+Transporte no disponible → opción para reagendar transporte.
+Métricas bajas → recibe sugerencias de mejora.
+
+![UserflowCons](img_graficas/UserFlowProductor.jpg)
+
+**User Flow: Consumidores**
+User Goal: Como consumidor, quiero buscar productos, agregarlos al carrito, realizar la compra y hacer seguimiento de mi pedido.
+
+**Descripción del flujo:**
+**Happy Path:** El consumidor inicia sesión, navega por el catálogo, filtra o busca productos, selecciona uno, lo añade al carrito, procede al pago y recibe confirmación. Luego puede hacer seguimiento de su pedido y dejar una reseña al final.
+**Unhappy Paths:**
+No encuentra producto → puede refinar la búsqueda o navegar de nuevo.
+Error de pago → puede reintentar con otro método de pago.
+Pedido Cancelado → se muestra aviso y opción de reintentar compra.
+
+![UserflowCons](img_graficas/UserFlowConsumidor.jpg)
+
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
