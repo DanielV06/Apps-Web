@@ -319,32 +319,22 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 ### 5.1.4. Software Deployment Configuration.
 - Creación Landing Page:<br>
 1. Se crea un repositorio remoto en GitHub
-![creation-of-repository-lp](assets/img/Creacion_repo.png)
 2. Agregar a participantes
-![adding-members-screenshot-lp](assets/img/miembros_repo.png)
 3. Habilitamos GitHub Pages en branch "master" y ruta "/(root)"
-![deploying-repository-in-github-pages-lp](assets/img/Github_pages.png)
 
 - Creación Front End App:<br>
 1. Creación de repositorio dentro de nuestra organización:
-![creation-of-repository-lp](assets/img/creacion-repositorio-frontendapp.png)
-2. Agregar a participantes:
-![adding-members-screenshot-lp](assets/img/miembros_repo.png)
+2. Agregar a participantes
 
 ### 5.1.4. Software Deployment Configuration.
 - Creación Landing Page:<br>
 1. Se crea un repositorio remoto en GitHub
-![creation-of-repository-lp](assets/img/Creacion_repo.png)
 2. Agregar a participantes
-![adding-members-screenshot-lp](assets/img/miembros_repo.png)
 3. Habilitamos GitHub Pages en branch "master" y ruta "/(root)"
-![deploying-repository-in-github-pages-lp](assets/img/Github_pages.png)
 
 - Creación Front End App:<br>
 1. Creación de repositorio dentro de nuestra organización:
-![creation-of-repository-lp](assets/img/creacion-repositorio-frontendapp.png)
-2. Agregar a participantes:
-![adding-members-screenshot-lp](assets/img/miembros_repo.png)
+2. Agregar a participantes
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
@@ -411,11 +401,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 #### 5.2.1.2. Sprint Backlog 1.
 
 En este primer sprint, nos enfocamos en la implementación de las funcionalidades básicas de la Landing Page, incluyendo la estructura general, el diseño visual y la navegación básica, también se ha creado un reporte que muestra el ciclo de vida de todo nuestro proyecto de software. Estas características son fundamentales para establecer las bases de nuestro producto y proporcionar una experiencia de usuario sólida y coherente.
-A continuación el sprint backlog 1 y el Trello donde se repartieron los trabajos: 
-
-[Link para ingresar al board del primer sprint]()
-
-![trello-screenshot]()
+A continuación el sprint backlog 1: 
 
 <table>
 	<tbody>
@@ -525,7 +511,7 @@ A continuación se presentan los commits más importantes para la Landing Page, 
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-En esta entrega, el equipo de desarrolladores de ... ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+En esta entrega, el equipo de desarrolladores de Greenlogist ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 ![Evidencia1](assets/img/Evidencia1.png)
 ![Evidencia2](assets/img/Evidencia2.png)
