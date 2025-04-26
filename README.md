@@ -364,7 +364,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Date</td>
-            <td colspan="1"> 2024-04-10 </td>
+            <td colspan="1"> 2025-04-24 </td>
 		</tr>
         <tr>
 			<td colspan="1">Time</td>
@@ -376,11 +376,11 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Prepared By</td>
-            <td colspan="1">Pescoran Angulo, Juan Fabritzzio</td>
+            <td colspan="1"> , </td>
 		</tr>
         <tr>
 			<td colspan="1"> Attendees (to planning meeting)</td>
-            <td colspan="1">Carpio Cornejo, Miguel Angel Jesus / Cueto Dominguez, Juan Diego / Sanchez Zamora Fabrizio Alessandro / Paredes Zapata, Luiggi Gianfranco </td>
+            <td colspan="1">  /  /  /  </td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 – 1 Review Summary </td>
@@ -388,7 +388,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
-            <td colspan="1">El sprint 1 fue ineficiente en términos de cooperación, se organizó mal el uso del tiempo y esto dio como resultado la entrega de un producto incompleto y para nada profesional. Juan Pescorán como Team Leader mencionó puntos de mejora, siendo estos: "Más dedicación por parte de todo el equipo, reuniones diarias para analizar el desarrollo de vida del proyecto de software, más comunicación entre los integrantes del equipo y maximizar el uso de herramientas de software para manejar las tareas pendientes de cada sprint."</td>
+            <td colspan="1">El sprint 1 fue ineficiente en términos de cooperación, se organizó mal el uso del tiempo y esto dio como resultado la entrega de un producto incompleto y para nada profesional.  como Team Leader mencionó puntos de mejora, siendo estos: "Más dedicación por parte de todo el equipo, reuniones diarias para analizar el desarrollo de vida del proyecto de software, más comunicación entre los integrantes del equipo y maximizar el uso de herramientas de software para manejar las tareas pendientes de cada sprint."</td>
 		</tr>
          <tr>
 			<td colspan="2">Sprint Goal & User Stories </td>
@@ -413,9 +413,9 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 En este primer sprint, nos enfocamos en la implementación de las funcionalidades básicas de la Landing Page, incluyendo la estructura general, el diseño visual y la navegación básica, también se ha creado un reporte que muestra el ciclo de vida de todo nuestro proyecto de software. Estas características son fundamentales para establecer las bases de nuestro producto y proporcionar una experiencia de usuario sólida y coherente.
 A continuación el sprint backlog 1 y el Trello donde se repartieron los trabajos: 
 
-[Link para ingresar al board del primer sprint](https://trello.com/b/OVQC9ARc/task-app-web)
+[Link para ingresar al board del primer sprint]()
 
-![trello-screenshot](assets/img/evidencia-trello-sprint-1.png)
+![trello-screenshot]()
 
 <table>
 	<tbody>
