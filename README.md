@@ -27,7 +27,13 @@ Nuestra misión es transformar la logística de productos orgánicos en el Perú
 Nuestra visión es ser la principal plataforma de logística orgánica en América Latina, liderando la transición hacia un sistema de distribución agrícola más justo, eficiente y sostenible, donde cada productor local pueda acceder a los mercados de manera directa y segura.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-falta completar 
+|                    Nombre                       |                                                     Descripción                                                                                                                                                                                                                                                                                                    |
+| :------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| |   |
+| |   |
+|  |  |
+|  |  |
+| De Las Casas Latour, Sebastián | Mi nombre es Sebastián De Las Casas y tengo 21 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona paciente, optimista y que se maneja bien bajo presión. Como miembro del equipo me esforzaré en apoyar en todo lo que pueda al avance del trabajo. |
 
 ## 1.2. Solution Profile
 En esta sección se describe el perfil de la solución teniendo en cuenta el problema y las ideas que se deben resolver para fomentar un sistema logístico seguro, eficiente y sostenible para productos orgánicos.
