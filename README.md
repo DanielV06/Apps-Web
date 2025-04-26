@@ -518,7 +518,6 @@ En esta entrega, el equipo de desarrolladores de Greenlogist ha completado con �
 ![Evidencia3](img_graficas/Evidencia3.png)
 ![Evidencia4](img_graficas/Evidencia4.png)
 ![Evidencia5](img_graficas/Evidencia5.png)
-![Evidencia6](img_graficas/Evidencia6.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
@@ -529,7 +528,7 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
-![team-collab-ins-sprint2](assets/img/analytics-collaboration-insights-sprint2.png)
+![team-collab-ins-sprint2](img_graficas/analytics-collaboration-insights-sprint2.png)
 
 
 - - -
