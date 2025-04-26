@@ -223,6 +223,14 @@ En esta sección se detallan los mockups pertenecientes al inicio de sesión com
 
 ## 4.5. Web Applications Prototyping
 
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+### 4.6.2. Software Architecture Container Diagrams
+
+### 4.6.3. Software Architecture Components Diagrams
+
 
 ### 4.7.2. Class Dictionary
 
