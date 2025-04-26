@@ -6,7 +6,7 @@ El diseño visual de Greenlogist debe reflejar sus valores fundamentales: sosten
 ### **Colores**
 Los colores escogidos para este producto fueron: Un Verde Natural (#4CAF50) como color principal, el cual refleja sostenibilidad, frescura y es fuertemente asociado con el campo; Beige claro (#F5F5DC) para el fondo de la página; Gris suave (#E0E0E0) para elementos secundarios de la página; Verde oscuro (#2E7D32) para los botones y elementos llamativos; y Negro (#212121) para la tipografía.
 
-
+![Paleta Referencial](img_graficas/Other/verde.png)
 
  Segmento 1: Agricultores Orgánicos
 
