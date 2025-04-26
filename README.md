@@ -142,31 +142,31 @@ En esta sección se mostrará los mockups para nuestra landing, tomando en cuent
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/2Registro.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/3dashboardproductores.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
-![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
