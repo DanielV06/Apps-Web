@@ -61,7 +61,7 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 |Oskar Rodrigo Sosa   |  |
 |Henry Diaz Gutierrez |  |
 |Daniel Valdizán Grijalba | |
-|                     | |
+| Sebastián De Las Casas Latour | Realización del capítulo 5 |
 
 
 # Tabla de contenidos
