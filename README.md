@@ -223,6 +223,67 @@ En esta sección se detallan los mockups pertenecientes al inicio de sesión com
 
 ## 4.5. Web Applications Prototyping
 
-[Pendiente]
+
+### 4.7.2. Class Dictionary
+
+**1. Class Structure**
+
+| Componente        | Ejemplo de Sintaxis          | Descripción                         |
+| :---------------- | :--------------------------- | :---------------------------------- |
+| **Nombre de Clase**| `class Usuario`               | Nombre principal de la clase.       |
+| **Atributos**      | `+id: UUID`                   | Variables o campos de la clase. `+` = público. |
+| **Métodos**        | `+solicitarTransporte(): void`| Funciones o comportamientos de la clase. |
+| **Separador**      | `--`                          | Línea que divide atributos de métodos. |
+
+
+**2. Visibility  Modifiers**
+
+| Símbolo | Significado  | Ejemplo                |
+| :------ | :----------- | :--------------------- |
+| `+`     | Público       | `+nombre: String`       |
+| `-`     | Privado       | `-contraseña: String`   |
+| `#`     | Protegido     | `#saldo: Decimal`       |
+| `~`     | Paquete       | `~token: String`        |
+
+
+
+**3. Data Types**
+
+| Tipo         | Ejemplo                       | Notas                        |
+| :----------- | :---------------------------- | :--------------------------- |
+| Primitivos   | `String`, `Int`, `Decimal`, `Text` | Tipos básicos del lenguaje.  |
+| Personalizados | `UUID`, `Timestamp`, `Enum`   | Tipos definidos en el sistema. |
+| Colecciones  | `List<Producto>`, `List<HistorialReseñas>` | Relaciones de tipo múltiple (`*`). |
+
+
+**4. Relationships**
+
+| Tipo de Relación | Sintaxis (Mermaid)                       | Ejemplo de Descripción                                  | Significado                    |
+| :--------------- | :--------------------------------------- | :----------------------------------------------------- | :----------------------------- |
+| **Asociación**   | `Usuario --> SolicitudTransporte`         | Un usuario realiza múltiples solicitudes de transporte. | Vínculo general.               |
+| **Agregación**   | `Producto o-- HistorialReseñas`           | Un producto puede tener muchas reseñas, pero no depende de ellas para existir. | Contención débil.              |
+| **Composición**  | `SolicitudTransporte *-- SeguimientoEnvio`| Cada solicitud de transporte **posee** un seguimiento asociado; si la solicitud desaparece, también el seguimiento. | Contención fuerte (lifecycle). |
+| **Dependencia**  | `Carrito ..> Producto`                   | El carrito **depende** temporalmente del producto para calcular precios. | Uso temporal.                  |
+| **Asociación**   | `Usuario --> Carrito`                     | Un usuario puede tener uno o varios carritos.            | Vínculo general.               |
+| **Asociación**   | `Producto --> EstadisticasPanel`          | Cada producto tiene un panel de estadísticas asociado.  | Vínculo general.               |
+
+
+**5. Multiplicity (Cardinality)**
+
+| Notación | Significado         | Ejemplo (Mermaid)                    |
+| :------- | :------------------ | :----------------------------------- |
+| `1`      | Exactamente uno      | `Producto "1" -- "1" EstadisticasPanel` |
+| `*` o `n`| Muchos (cero o más)   | `Usuario "1" -- "*" SolicitudTransporte` |
+| `0..1`   | Cero o uno (opcional) | `Carrito "0..1" -- "1" Usuario` |
+| `1..*`   | Uno o más             | `SolicitudTransporte "1" -- "1..*" SeguimientoEnvio` |
+
+
+
+**6. Notes & Stereotypes**
+
+| Elemento          | Sintaxis                               | Ejemplo                         |
+| :---------------- | :------------------------------------- | :------------------------------ |
+| **Nota**          | `note for Producto: "El stock puede cambiar con el tiempo"` | Agrega comentarios o aclaraciones a una clase. |
+| **Estereotipo**   | `<<Entidad>> Usuario`                   | Marca que es una entidad del dominio. |
 
 
