@@ -28,16 +28,17 @@
 ## Integrantes:
 <div align="center">
 
-| Nombres y Apellidos                  | Codigo     |
-| ------------------------------------ | ---------- |
-| Daniel Valdizan Grijalba             | u202311566 |
-|              |  |
-| | |
-| Sebastián De Las Casas Latour | u202213553 |
-| |  |
+| Nombres y Apellidos       | Codigo     |
+|---------------------------|------------|
+| Daniel Valdizan Grijalba  | u202311566 |
+| Roy Fernández Remón       | u20221b778 |
+| Oskar Rodrigo Sosa Soto   | u202212214 |
+| Henry Kevin Diaz Gutierrez| u201819674 |
+|                           |            |
 
 
 </div>
+
 
 <p align="center">Abril 2025</p>
 
@@ -441,29 +442,7 @@ Valoran alianzas con empresas que refuercen su imagen de compromiso ecológico y
 
 Sensibles a la trazabilidad y certificación de procesos sostenibles.
 
-**Segmento 2: Tiendas y ferias eco-friendly**
-
-- Características Demográficas:
-
-Nacionalidad: Peruana.
-
-Ubicación: Zonas urbanas y turísticas con enfoque en consumo responsable (Lima, Cusco, Arequipa, etc.).
-
-Nivel educativo: Estudios universitarios o técnicos en administración, comercio, marketing, sostenibilidad.
-
-Intereses: Abastecimiento sostenible, reducción de la huella de carbono, fortalecimiento de la oferta verde.
-
-- Características Psicográficas:
-
-Tiendas físicas o virtuales que venden exclusivamente productos ecológicos, orgánicos o artesanales.
-
-Buscan un proveedor logístico que respalde su propuesta de valor verde.
-
-Necesitan un servicio confiable, trazable y que pueda adaptarse a volúmenes pequeños y medianos.
-
-Interesados en asociarse a programas de logística responsable para fortalecer su marca frente a consumidores conscientes.
-
-**Segmento 3: Personas que buscan productos orgánicos de calidad en casa**
+**Segmento 2: Personas que buscan productos orgánicos de calidad en casa**
 
 - Características Demográficas:
 
