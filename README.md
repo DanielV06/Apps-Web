@@ -227,10 +227,19 @@ En esta sección se detallan los mockups pertenecientes al inicio de sesión com
 
 ### 4.6.1. Software Architecture Context Diagram
 
+![Contextual](img_graficas/C4/Contextual.jpg)
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+![Contenedores](img_graficas/C4/Contenedores.jpg)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+![Componentes](img_graficas/C4/Componentes.jpg)
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
 
 ### 4.7.2. Class Dictionary
 
