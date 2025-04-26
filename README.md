@@ -146,27 +146,27 @@ En esta sección se mostrará los mockups para nuestra landing, tomando en cuent
 
 ![Encabezado](img_graficas/WebApps/Wireframes/2Registro.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/3dashboardproductores.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/3dashboard_productores.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/4Registrar_producto.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/5solicitar_transporte.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/6estadisticas.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/7perfil_del_productor.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/8consumidor_home.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/9consumidor_detalles_productor.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/10consumidor_carrito.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/11consumidor_seguimiento.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_1.PNG)
 
-![Encabezado](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Encabezado](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_2.PNG)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
