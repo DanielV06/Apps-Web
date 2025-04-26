@@ -28,16 +28,80 @@ Asimismo, se deberán asegurar márgenes amplios y separación clara entre secci
 
 Adicionalmente, el encabezado siempre visible con logo, buscador, categorías y acceso rápido a cuenta/perfil, y se debe establecer un pie de página con enlaces a contacto, redes sociales y certificado de sostenibilidad.
 
-## 4.2. Information Architecture
-### 4.2.1. Organization Systems
+## 4.2 Information Architecture
+La arquitectura de la información para Greenlogist se ha estructurado de manera clara y coherente para garantizar una navegación intuitiva tanto en la **Landing Page** como en las **Web Applications** para productores y consumidores. Se ha priorizado la facilidad de acceso a las funcionalidades principales según los perfiles de usuario.
 
-### 4.2.1. Labeling Systems
+### 4.2.1 Organization Systems
 
-### 4.2.1. SEO Tags and Meta tags
+En esta sección, el equipo explica en qué grupos de información aplicará cuáles sistemas de organización. Se incluye la explicación de en qué casos se aplicará la organización visual del contenido: de forma jerárquica (visual hierarchy), organización secuencial (step-by-step to accomplish) o matricial.
 
-### 4.2.1. Searching Systems
+**Landing Page:**
+*   **Organización jerárquica:**La información se estructura de forma descendente: desde la presentación general de Greenlogist, los beneficios, funciones del producto, los planes hasta los llamados a la acción para registro e inicio de sesión.
 
-### 4.2.1. Navigation Systems
+![Encabezado](img_graficas/LandingPage/Wireframes/1.PNG)
+
+**Web Applications:**
+*   **Productores:**
+    *   **Organización jerárquica:** Dashboard con acceso directo a funciones clave como Productos, Solicitar Transporte y Estadísticas.
+    *   **Organización secuencial:** Creación de un producto nuevo (llenado de formulario paso a paso).
+    *   **Organización matricial:** Acceso cruzado entre Productos y Solicitudes de Transporte para gestionar logística de forma integral.
+        
+*   **Consumidores:**
+    *   **Organización jerárquica:** Pantalla de inicio con categorías de productos en orden de prioridad.
+    *   **Organización secuencial:** Flujo de compra: selección de productos → carrito → pago → seguimiento.
+    *   **Organización matricial:** Posibilidad de navegar entre Productos, Perfil del Productor, y Métricas Ambientales sin perder el contexto.
+        
+### 4.2.2 Labeling Systems
+**Landing Page:**
+*   Menú principal con etiquetas claras: "Inicio", "Para Productores", "Para Consumidores", "Beneficios", "Regístrate", "Iniciar Sesión".
+*   Botones de acción llamativos como "Únete como Productor" y "Compra Productos Orgánicos".
+    
+**Web Applications:**
+*   Menú personalizado dependiendo del perfil.
+*   Etiquetas simples y orientadas a la acción, por ejemplo:
+    *   "Añadir Producto"
+    *   "Solicitar Transporte"
+    *   "Mis Estadísticas"
+    *   "Carrito"
+    *   "Seguimiento de Pedido"
+    *   "Reseñar Pedido"
+        
+### 4.2.3 SEO Tags and Meta Tags
+
+**Landing Page:**
+*   Títulos y meta descripciones optimizados para palabras clave como "Beneficios", "Planes", "Características".
+*   Etiquetas Open Graph para mejor visualización en redes sociales.
+    
+**Web Applications:**
+*   Páginas internas optimizadas para búsquedas específicas como "comprar productos orgánicos en Perú" o "distribuir productos ecológicos".
+*   Etiquetas específicas por tipo de usuario.
+    
+### 4.2.4 Searching Systems
+**Landing Page:**
+*   No requiere buscador interno debido a su enfoque informativo.
+
+**Web Applications:**
+*   **Consumidores:**
+    *   Buscador de productos por nombre, categoría o productor.
+    *   Filtros por tipo de producto, certificaciones, precios y distancia de entrega.
+        
+*   **Productores:**
+    *   Buscador interno para gestión de productos.
+
+### 4.2.5 Navigation Systems
+**Landing Page:**
+*   Menú principal fijo y accesible en todo momento.
+*   Botones directos hacia registro.
+    
+**Web Applications:**
+*   **Productores:**
+    *   Menú superior persistente.
+    *   Acceso rápido a creación de productos, solicitudes de transporte y estadísticas.
+        
+*   **Consumidores:**
+    *   Menú superior con acceso a Home, Carrito, Seguimiento y Perfil.
+    *   Breadcrumbs para regresar al catálogo desde páginas de detalle de producto.
+
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
@@ -74,5 +138,44 @@ En esta sección se mostrará los mockups para nuestra landing, tomando en cuent
 ![Info](img_graficas/LandingPage/Mockups/6.PNG)
 
 ![Contacto y footer](img_graficas/LandingPage/Mockups/7.PNG)
+
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+[Pendiente]
 
 
