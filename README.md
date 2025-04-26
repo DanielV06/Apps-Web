@@ -302,4 +302,7 @@ En esta sección se detallan los mockups pertenecientes al inicio de sesión com
 | **Nota**          | `note for Producto: "El stock puede cambiar con el tiempo"` | Agrega comentarios o aclaraciones a una clase. |
 | **Estereotipo**   | `<<Entidad>> Usuario`                   | Marca que es una entidad del dominio. |
 
+## 4.8. Database Design.
 
+### 4.8.1. Database Diagram.
+![Diagrama_base](img_graficas/Diagrama_base.png)
