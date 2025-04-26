@@ -69,7 +69,7 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
     * ### GitHub Pages: 
       Una plataforma que posibilita la realización de despliegues simples directamente desde un repositorio de GitHub. <br>
 ### 5.1.2. Source Code Management.
-Landing Page Repository: [Landing Page Repository](https://github.com/los-seniors-v2/LandingPageFlexPal.git)
+Landing Page Repository: [Landing Page Repository](https://github.com/los-seniors-v2/LandingPageGrupo2.git)
 - #### GitFlow Implementation:
 Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto 
 ![gitflow](assets/img/team_collab_ins.png)
@@ -468,7 +468,7 @@ A continuación el sprint backlog 1 y el Trello donde se repartieron los trabajo
 			<td>Conclude Chapter01</td>
 			<td>Finish all section and add the respective information in chapter01</td>
 			<td>5</td>
-			<td>Juan Pescoran</td>
+			<td>All team members</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -521,25 +521,25 @@ Primero, se mostrarán los commits más importantes para el Reporte, los cuales 
 
 | Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
 |---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| JuanPescoran/Report | develop | 98783487238973c5dd4a8097197adb2cf70af00a | feat: added content in chapter IV        | added content in all sections of chapter04                                                                                                          | 4/9/2024           |
-| JuanPescoran/Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5a | feat(assets)                             | added img to master branch                                                                                                                          | 4/9/2024           |
+| /Report | develop | 98783487238973c5dd4a8097197adb2cf70af00a | feat: added content in chapter IV        | added content in all sections of chapter04                                                                                                          | 4/9/2024           |
+| /Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5a | feat(assets)                             | added img to master branch                                                                                                                          | 4/9/2024           |
 
 
 A continuación se presentan los commits más importantes para la Landing Page, los cuales muestran todo el contenido visual y funcionalidades implementadas en el Sprint 2:
 
 | Repository                      | Branch                | Commit ID                                | Commit Message                   | Commit Message Body                                                                                                                                 | Commited on (Date) |
 |---------------------------------|-----------------------|------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| JDu202012207/LandingPageFlexPal | feat-bienvenida       | 563de4f7bde5ef4a20ce639bc4f6bd881d205856 | feat(welcome-container)          | implemented cta in section home, added slogan and banner.                                                                                           | 4/9/2024           |
-| Fabrizio0711/LandingPageFlexPal | feature-testimonios   | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f51 | feat: added testimonials section | added testimonials section with user feedback                                                                                                       | 4/9/2024           |
-| JDu202012207/LandingPageFlexPal | feature-header-footer | f8351fb08d1718af912437127ac10d350a6b0d2c | feat(header-footer)              | implemented logo in header and information in footer.                                                                                               | 4/9/2024           |
-| JDu202012207/LandingPageFlexPal | feature-contacto      | c8d979e154ceec2e6b7e924b6aa16137199f743d | feat(contact-us)                 | implemented form, description and labels                                                                                                            | 4/9/2024           |
-| JuanPescoran/LandingPageFlexPal | feature-contenido     | db8e4a108071eeed824a148623bf34e7785ea982 | feat(assets): added images       | feat(assets): added all information for hero content, about us, subscriptions and other sections Also, added images for banners and everything else | 4/9/2024           |
+| JDu202012207/LandingPageGrupo2 | feat-bienvenida       | 563de4f7bde5ef4a20ce639bc4f6bd881d205858 | feat(welcome-container)          | implemented cta in section home, added slogan and banner.                                                                                           | 4/9/2024           |
+| Fabrizio0711/LandingPageGrupo2 | feature-testimonios   | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f52 | feat: added testimonials section | added testimonials section with user feedback                                                                                                       | 4/9/2024           |
+| JDu202012207/LandingPageGrupo2 | feature-header-footer | f8351fb08d1718af912437127ac10d350a6b0d2d | feat(header-footer)              | implemented logo in header and information in footer.                                                                                               | 4/9/2024           |
+| JDu202012207/LandingPageGrupo2 | feature-contacto      | c8d979e154ceec2e6b7e924b6aa16137199f743t | feat(contact-us)                 | implemented form, description and labels                                                                                                            | 4/9/2024           |
+| JuanPescoran/LandingPageGrupo2 | feature-contenido     | db8e4a108071eeed824a148623bf34e7785ea988 | feat(assets): added images       | feat(assets): added all information for hero content, about us, subscriptions and other sections Also, added images for banners and everything else | 4/9/2024           |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+En esta entrega, el equipo de desarrolladores de ... ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 ![Evidencia1](assets/img/Evidencia1.png)
 ![Evidencia2](assets/img/Evidencia2.png)
