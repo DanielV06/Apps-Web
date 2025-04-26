@@ -160,23 +160,11 @@ Incluir estadísticas que sustenten la problemática
 Para sustentar la necesidad de una solución logística para productos orgánicos, 
 se consultaron datos proporcionados por el Ministerio de Agricultura y Riego del Perú (MINAGRI) y la FAO.
 
-**Figura 1:** Pérdida de productos agrícolas en el transporte
-![Perdida de productos en el transporte](img_graficas/1.png)
-
-**\*Nota:** Gráfico N.º 1 Perdidas de productos en el transporte\*
-**Fuente:** Ministerio de agricultura y Riego del Perú(MINAGRI, 2023)
-
-Según el Ministerio de Agricultura y Riego del Perú (MINAGRI, 2023), se estima 
+- Según el Ministerio de Agricultura y Riego del Perú (MINAGRI, 2023), se estima 
 que entre un 25 % y 35 % de la producción agrícola nacional se pierde anualmente 
 debido a problemas en la cadena de suministro, incluyendo transporte ineficiente.
 
-**Figura 2:** Acceso a mercados de pequeños productores
-![Acceso a mercados pequeños productores](img_graficas/2.png)
-
-**\*Nota:** Gráfico N.º 2 Acceso a mercados de pequeños productores\*
-**Fuente:** Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO, 2023)
-
-De acuerdo a la FAO (2023), menos del 40% de los pequeños productores en 
+- De acuerdo a la FAO (2023), menos del 40% de los pequeños productores en 
 Perú tienen acceso directo a mercados urbanos, lo que limita gravemente sus ingresos y su capacidad 
 de crecimiento económico.
 
