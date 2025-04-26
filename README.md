@@ -34,7 +34,7 @@
 | Roy Fernández Remón       | u20221b778 |
 | Oskar Rodrigo Sosa Soto   | u202212214 |
 | Henry Kevin Diaz Gutierrez| u201819674 |
-|                           |            |
+| Sebastián De Las Casas Latour | u202213553 |
 
 
 </div>
