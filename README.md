@@ -33,7 +33,7 @@
 | Daniel Valdizan Grijalba             | u202311566 |
 |              |  |
 | | |
-| |  |
+| Sebastián De Las Casas Latour | u202213553 |
 | |  |
 
 
