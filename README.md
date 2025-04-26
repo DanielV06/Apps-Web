@@ -177,10 +177,12 @@ En esta sección se muestra los wireframes pertenecientes al inicio de sesión c
 ### 4.4.2. Web Applications Wireflow Diagrams
 A continuación se detallarán los Wireflow Diagrams para los usuarios Productores y Consumidores de nuestro programa. Esto se analizó tomando en cuenta las User Stories y las necesidades que los usuarios podrían presentar al visitar nuestro servicio.
 
-**Wireflow Productores**
+Trabajado en LucidChart: [Enlace](https://lucid.app/lucidchart/54c96a10-3216-4c5f-b835-e9b68dfa344d/edit?viewport_loc=-4198%2C-4351%2C17026%2C7722%2C0_0&invitationId=inv_763ccd35-1062-4c3d-a52b-e2b3bf55825b)
+
+**Wireflow Diagram Productores**
 ![WireflowProv](img_graficas/ProveedoresWireflow.png)
 
-**Wireflow Consumidores**
+**Wireflow Diagram Consumidores**
 ![WireflowCons](img_graficas/ConsumidorWireflow.png)
 
 ### 4.4.3. Web Applications Mock-ups
