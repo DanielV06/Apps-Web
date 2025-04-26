@@ -7,8 +7,7 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
     * ### Trello:
       Una aplicación de gestión de proyectos que facilita el seguimiento de las tareas individuales de cada miembro del equipo de manera sencilla. <br>
       [Link De Registro o Inicio De Sesión](https://trello.com/es)<br>
-      Imagen para mostrar evidencia de uso:
-      ![trello-image-grupo](assets/img/project-management-trello.png)
+      
       *  ### Google Meet
        una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos e integración de aplicaciones. <br>
         [Link De Registro o Inicio De Sesión](https://meet.google.com/landing)
@@ -18,13 +17,9 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
     * ### Miro:
       Un sistema que ofrece una amplia gama de plantillas diseñadas para abordar diversos aspectos en la creación y gestión de proyectos. <br>
       [Link De Registro o Inicio De Sesión](https://miro.com/es/login/)
-      Imagen para mostrar evidencia de uso:
-      ![Miro-image-userpersona](assets/img/evidencia-miro.png)
     * ### UXPressia:
       Es una herramienta en línea que simplifica el proceso de mapeo y comprensión de las necesidades del cliente en un proyecto determinado. <br>
       [Link De Registro o Inicio De Sesión](https://uxpressia.com)
-      Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-uxpressia.png)
     * ### Structurizr:
       Se trata de una suite de herramientas que posibilita la creación colaborativa de modelos C4 para representar de forma gráfica nuestros productos. <br>
       [Link De Registro o Inicio De Sesión](https://structurizr.com)
@@ -35,24 +30,16 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
     * ### LucidChart:
       Una herramienta colaborativa que posibilita la creación conjunta de wireframes flow y mockups flow. <br>
       [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
-      Imagen para mostrar evidencia de uso:
-      ![lucidchart-image-userpersona](assets/img/evidencia-lucidchart.png)
 - ###  Software Development:
     * ### HTML5:
       Es un lenguaje de etiquetado utilizado para crear la estructura a páginas web. Lo utilizamos para incluir componentes como texto, imágenes, enlaces, botones y videos en nuestras páginas web. <br>
       [Información Relacionada](https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.)
-      Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/html-evidencia.png)
     * ### CSS:
       Un lenguaje de diseño gráfico utilizado para dar formato y estilo a la presentación de un documento escrito en HTML. <br>
       [Información Relacionada](https://developer.mozilla.org/es/docs/Web/CSS)
-      Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-css.png)
     * ### JavaScript:
       Un lenguaje de programación orientado a objetos dinámico que utilizamos para implementar funcionalidades en un documento HTML. <br>
       [Información Relacionada]( https://developer.mozilla.org/es/docs/Web/JavaScript )
-      Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-uxpressia.png)
     * ### WebStorm:
       Un entorno de desarrollo integrado (IDE) que emplearemos para trabajar con JavaScript. <br>
       [Link De Descarga]( https://www.jetbrains.com/es-es/webstorm/)
@@ -69,10 +56,9 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
     * ### GitHub Pages: 
       Una plataforma que posibilita la realización de despliegues simples directamente desde un repositorio de GitHub. <br>
 ### 5.1.2. Source Code Management.
-Landing Page Repository: [Landing Page Repository](https://github.com/los-seniors-v2/LandingPageGrupo2.git)
+Landing Page Repository: [Landing Page Repository]()
 - #### GitFlow Implementation:
 Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto 
-![gitflow](assets/img/team_collab_ins.png)
 
 ### **Master o Main branch**
 La rama principal de desarrollo del proyecto es la Master branch. En esta rama reside el código que actualmente se encuentra en producción.
@@ -529,11 +515,11 @@ A continuación se presentan los commits más importantes para la Landing Page, 
 
 | Repository                      | Branch                | Commit ID                                | Commit Message                   | Commit Message Body                                                                                                                                 | Commited on (Date) |
 |---------------------------------|-----------------------|------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| Dev1/LandingPageGrupo2 | feat-bienvenida       | 563de4f7bde5ef4a20ce639bc4f6bd881d205858 | feat(welcome-container)          | implemented cta in section home, added slogan and banner.                                                                                           | 24/4/2025           |
-| Dev3/LandingPageGrupo2 | feature-testimonios   | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f52 | feat: added testimonials section | added testimonials section with user feedback                                                                                                       | 24/4/2025           |
-| Dev2/LandingPageGrupo2 | feature-header-footer | f8351fb08d1718af912437127ac10d350a6b0d2d | feat(header-footer)              | implemented logo in header and information in footer.                                                                                               | 24/4/2025           |
-| Dev2/LandingPageGrupo2 | feature-contacto      | c8d979e154ceec2e6b7e924b6aa16137199f743t | feat(contact-us)                 | implemented form, description and labels                                                                                                            | 24/4/2025           |
-| Dev1/LandingPageGrupo2 | feature-contenido     | db8e4a108071eeed824a148623bf34e7785ea988 | feat(assets): added images       | feat(assets): added all information for hero content, about us, subscriptions and other sections Also, added images for banners and everything else | 4/9/2024           |
+| Dev1/LandingPageGreenlogist  | feat-bienvenida       | 563de4f7bde5ef4a20ce639bc4f6bd881d205858 | feat(welcome-container)          | implemented cta in section home, added slogan and banner.                                                                                           | 24/4/2025           |
+| Dev3/LandingPageGreenlogist  | feature-testimonios   | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f52 | feat: added testimonials section | added testimonials section with user feedback                                                                                                       | 24/4/2025           |
+| Dev2/LandingPageGreenlogist  | feature-header-footer | f8351fb08d1718af912437127ac10d350a6b0d2d | feat(header-footer)              | implemented logo in header and information in footer.                                                                                               | 24/4/2025           |
+| Dev2/LandingPageGreenlogist  | feature-contacto      | c8d979e154ceec2e6b7e924b6aa16137199f743t | feat(contact-us)                 | implemented form, description and labels                                                                                                            | 24/4/2025           |
+| Dev1/LandingPageGreenlogist  | feature-contenido     | db8e4a108071eeed824a148623bf34e7785ea988 | feat(assets): added images       | feat(assets): added all information for hero content, about us, subscriptions and other sections Also, added images for banners and everything else | 4/9/2024           |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
