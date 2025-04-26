@@ -38,7 +38,7 @@ En esta sección, el equipo explica en qué grupos de información aplicará cu�
 **Landing Page:**
 *   **Organización jerárquica:**La información se estructura de forma descendente: desde la presentación general de Greenlogist, los beneficios, funciones del producto, los planes hasta los llamados a la acción para registro e inicio de sesión.
 
-![Encabezado](img_graficas/LandingPage/Wireframes/1.PNG)
+![Organigrama Landing Page](img_graficas/Organigrama Landing.png)
 
 **Web Applications:**
 *   **Productores:**
