@@ -258,4 +258,13 @@ Dentro del apartado de historias de usuario, explicaremos en detalle las diferen
 
 
 ## 3.3. Impact Mapping.
+
+La sección de Impact Mapping analizará las consecuencias más amplias y los objetivos estratégicos que buscamos lograr con la implementación de Greenlogist.
+En lugar de concentrarnos en detalles técnicos o funcionalidades específicas, el Impact Mapping nos ayudará a comprender cómo funciona la solución.
+
+Nuestro proyecto ayudará a lograr objetivos más grandes y tendrá un impacto positivo en varios grupos de interés. Este Impact Mapping nos permitirá identificar cómo las características de la aplicación se relacionan con los resultados deseados, lo que permitirá tomar decisiones informadas sobre qué aspectos priorizar y cómo medir el éxito a largo plazo.
+
+![image](https://github.com/user-attachments/assets/c2a3c3e3-c9c8-426e-8df4-5bfbafbb7304)
+
+
 ## 3.4. Product Backlog.
