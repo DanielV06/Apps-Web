@@ -36,7 +36,7 @@ La arquitectura de la información para Greenlogist se ha estructurado de manera
 En esta sección, el equipo explica en qué grupos de información aplicará cuáles sistemas de organización. Se incluye la explicación de en qué casos se aplicará la organización visual del contenido: de forma jerárquica (visual hierarchy), organización secuencial (step-by-step to accomplish) o matricial.
 
 **Landing Page:**
-*   **Organización jerárquica:**La información se estructura de forma descendente: desde la presentación general de Greenlogist, los beneficios, funciones del producto, los planes hasta los llamados a la acción para registro e inicio de sesión.
+*   **Organización jerárquica:** La información se estructura de forma descendente: desde la presentación general de Greenlogist, los beneficios, funciones del producto, los planes hasta los llamados a la acción para registro e inicio de sesión.
 
 ![Organigrama Landing Page](img_graficas/OrganigramaLanding.png)
 
