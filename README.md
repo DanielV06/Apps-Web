@@ -175,6 +175,13 @@ En esta sección se muestra los wireframes pertenecientes al inicio de sesión c
 ![Reseña](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_2.PNG)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+A continuación se detallarán los Wireflow Diagrams para los usuarios Productores y Consumidores de nuestro programa. Esto se analizó tomando en cuenta las User Stories y las necesidades que los usuarios podrían presentar al visitar nuestro servicio.
+
+**Wireflow Productores**
+![WireflowProv](img_graficas/WebApps/Mockups/img_graficas/ProveedoresWireflow.png)
+
+**Wireflow Consumidores**
+![WireflowProv](img_graficas/WebApps/Mockups/img_graficas/ConsumidorWireflow.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
