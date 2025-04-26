@@ -41,6 +41,7 @@ Adicionalmente, el encabezado siempre visible con logo, buscador, categorías y 
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+Aquí se mostrarán los wireframes para cada sección presente en nuestra lannding page.
 
 ![Encabezado](img_graficas/LandingPage/Wireframes/1.PNG)
 
@@ -58,6 +59,7 @@ Adicionalmente, el encabezado siempre visible con logo, buscador, categorías y 
 
 
 ### 4.3.1. Landing Page Mockup
+En esta sección se mostrará los mockups para nuestra landing, tomando en cuenta las pautas de estilo anteriormente detalladas.
 
 ![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
 
