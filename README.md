@@ -42,9 +42,35 @@ Adicionalmente, el encabezado siempre visible con logo, buscador, categorías y 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
-![Paleta Referencial](img_graficas/Other/verde.png)
+![Encabezado](img_graficas/LandingPage/Wireframes/1.PNG)
+
+![Características](img_graficas/LandingPage/Wireframes/2.PNG)
+
+![Planes](img_graficas/LandingPage/Wireframes/3.PNG)
+
+![Registro](img_graficas/LandingPage/Wireframes/4.PNG)
+
+![Quienes somos](img_graficas/LandingPage/Wireframes/5.PNG)
+
+![Info](img_graficas/LandingPage/Wireframes/6.PNG)
+
+![Contacto y footer](img_graficas/LandingPage/Wireframes/7.PNG)
+
 
 ### 4.3.1. Landing Page Mockup
 
-![Paleta Referencial](img_graficas/Other/verde.png)
+![Encabezado](img_graficas/LandingPage/Mockups/1.PNG)
+
+![Características](img_graficas/LandingPage/Mockups/2.PNG)
+
+![Planes](img_graficas/LandingPage/Mockups/3.PNG)
+
+![Registro](img_graficas/LandingPage/Mockups/4.PNG)
+
+![Quienes somos](img_graficas/LandingPage/Mockups/5.PNG)
+
+![Info](img_graficas/LandingPage/Mockups/6.PNG)
+
+![Contacto y footer](img_graficas/LandingPage/Mockups/7.PNG)
+
 
