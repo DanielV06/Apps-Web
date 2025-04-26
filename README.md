@@ -22,10 +22,29 @@ Las guías de estilo web de Greenlogist aseguran una experiencia visual y funcio
 
 Se empleará un diseño basado en grid de 12 columnas para flexibilidad y adaptabilidad responsiva.
 
+![Diseño Grid de 12 columnas](img_graficas/Other/grid12.png)
 
+Asimismo, se deberán asegurar márgenes amplios y separación clara entre secciones para evitar saturación visual.
 
-Márgenes amplios y separación clara entre secciones para evitar saturación visual.
+Adicionalmente, el encabezado siempre visible con logo, buscador, categorías y acceso rápido a cuenta/perfil, y se debe establecer un pie de página con enlaces a contacto, redes sociales y certificado de sostenibilidad.
 
-Encabezado siempre visible (sticky navbar) con logo, buscador, categorías y acceso rápido a cuenta/perfil.
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
 
-Pie de página con enlaces a contacto, políticas, redes sociales y certificado de sostenibilidad.
+### 4.2.1. Labeling Systems
+
+### 4.2.1. SEO Tags and Meta tags
+
+### 4.2.1. Searching Systems
+
+### 4.2.1. Navigation Systems
+
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+
+![Paleta Referencial](img_graficas/Other/verde.png)
+
+### 4.3.1. Landing Page Mockup
+
+![Paleta Referencial](img_graficas/Other/verde.png)
+
