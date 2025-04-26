@@ -240,9 +240,9 @@ En esta sección se detallan los mockups pertenecientes al inicio de sesión com
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-
+![Componentes](img_graficas/Diagram_class.jpg)
 ### 4.7.2. Class Dictionary
-
+![Componentes](img_graficas/C4/Diagrama_base.jpg)
 **1. Class Structure**
 
 | Componente        | Ejemplo de Sintaxis          | Descripción                         |
