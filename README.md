@@ -268,3 +268,48 @@ Nuestro proyecto ayudará a lograr objetivos más grandes y tendrá un impacto p
 
 
 ## 3.4. Product Backlog.
+
+| #Orden | User Story ID | Título | Descripción | Prioridad | Story Points |
+|:---|:---|:---|:---|:---|:---|
+| 1 | S1-US01 | Registro fácil | Como productor, quiero registrarme fácilmente, para comenzar a usar la app sin complicaciones. | Alta | 5 |
+| 2 | S1-US02 | Publicar productos | Como productor, quiero poder publicar mis productos orgánicos, para que los consumidores los encuentren. | Alta | 8 |
+| 3 | S1-US03 | Programar envíos | Como productor, quiero programar el recojo de mis productos, para optimizar mi tiempo de entrega. | Alta | 8 |
+| 4 | S1-US04 | Ver impacto ambiental | Como productor, quiero visualizar el impacto ecológico de mis envíos, para mostrar mi compromiso sostenible. | Media | 5 |
+| 5 | S1-US05 | Recibir pagos seguros | Como productor, quiero recibir pagos seguros, para asegurar mis ingresos de manera rápida y confiable. | Alta | 8 |
+| 6 | S1-US06 | Historial de envíos | Como productor, quiero ver el historial de envíos realizados, para llevar un mejor control de mi logística. | Media | 5 |
+| 7 | S1-US07 | Soporte técnico | Como productor, quiero tener acceso a soporte técnico rápido, para resolver dudas o problemas. | Media | 3 |
+| 8 | S2-US01 | Registrarse como consumidor | Como consumidor, quiero registrarme de manera sencilla, para acceder a productos orgánicos. | Alta | 5 |
+| 9 | S2-US02 | Buscar productos | Como consumidor, quiero buscar productos ecológicos, para comprar de manera informada. | Alta | 8 |
+| 10 | S2-US03 | Ver impacto positivo | Como consumidor, quiero ver el impacto positivo de mis compras, para sentirme parte del cambio ecológico. | Media | 5 |
+| 11 | S2-US04 | Comprar productos | Como consumidor, quiero comprar productos directamente, para recibir productos frescos en casa. | Alta | 8 |
+| 12 | S2-US05 | Consultar historial de compras | Como consumidor, quiero revisar mi historial de compras, para llevar un control de mi consumo ecológico. | Media | 5 |
+| 13 | S2-US06 | Compartir compras | Como consumidor, quiero compartir mis compras en redes sociales, para motivar a otros a consumir ecológico. | Baja | 3 || #Orden | User Story ID | Título | Descripción | Prioridad | Story Points |
+|:---|:---|:---|:---|:---|:---|
+| 1 | S1-US01 | Registro fácil | Como productor, quiero registrarme fácilmente, para comenzar a usar la app sin complicaciones. | Alta | 5 |
+| 2 | S1-US02 | Publicar productos | Como productor, quiero poder publicar mis productos orgánicos, para que los consumidores los encuentren. | Alta | 8 |
+| 3 | S1-US03 | Programar envíos | Como productor, quiero programar el recojo de mis productos, para optimizar mi tiempo de entrega. | Alta | 8 |
+| 4 | S1-US04 | Ver impacto ambiental | Como productor, quiero visualizar el impacto ecológico de mis envíos, para mostrar mi compromiso sostenible. | Media | 5 |
+| 5 | S1-US05 | Recibir pagos seguros | Como productor, quiero recibir pagos seguros, para asegurar mis ingresos de manera rápida y confiable. | Alta | 8 |
+| 6 | S1-US06 | Historial de envíos | Como productor, quiero ver el historial de envíos realizados, para llevar un mejor control de mi logística. | Media | 5 |
+| 7 | S1-US07 | Soporte técnico | Como productor, quiero tener acceso a soporte técnico rápido, para resolver dudas o problemas. | Media | 3 |
+| 8 | S2-US01 | Registrarse como consumidor | Como consumidor, quiero registrarme de manera sencilla, para acceder a productos orgánicos. | Alta | 5 |
+| 9 | S2-US02 | Buscar productos | Como consumidor, quiero buscar productos ecológicos, para comprar de manera informada. | Alta | 8 |
+| 10 | S2-US03 | Ver impacto positivo | Como consumidor, quiero ver el impacto positivo de mis compras, para sentirme parte del cambio ecológico. | Media | 5 |
+| 11 | S2-US04 | Comprar productos | Como consumidor, quiero comprar productos directamente, para recibir productos frescos en casa. | Alta | 8 |
+| 12 | S2-US05 | Consultar historial de compras | Como consumidor, quiero revisar mi historial de compras, para llevar un control de mi consumo ecológico. | Media | 5 |
+| 13 | S2-US06 | Compartir compras | Como consumidor, quiero compartir mis compras en redes sociales, para motivar a otros a consumir ecológico. | Baja | 3 || #Orden | User Story ID | Título | Descripción | Prioridad | Story Points |
+|:---|:---|:---|:---|:---|:---|
+| 1 | S1-US01 | Registro fácil | Como productor, quiero registrarme fácilmente, para comenzar a usar la app sin complicaciones. | Alta | 5 |
+| 2 | S1-US02 | Publicar productos | Como productor, quiero poder publicar mis productos orgánicos, para que los consumidores los encuentren. | Alta | 8 |
+| 3 | S1-US03 | Programar envíos | Como productor, quiero programar el recojo de mis productos, para optimizar mi tiempo de entrega. | Alta | 8 |
+| 4 | S1-US04 | Ver impacto ambiental | Como productor, quiero visualizar el impacto ecológico de mis envíos, para mostrar mi compromiso sostenible. | Media | 5 |
+| 5 | S1-US05 | Recibir pagos seguros | Como productor, quiero recibir pagos seguros, para asegurar mis ingresos de manera rápida y confiable. | Alta | 8 |
+| 6 | S1-US06 | Historial de envíos | Como productor, quiero ver el historial de envíos realizados, para llevar un mejor control de mi logística. | Media | 5 |
+| 7 | S1-US07 | Soporte técnico | Como productor, quiero tener acceso a soporte técnico rápido, para resolver dudas o problemas. | Media | 3 |
+| 8 | S2-US01 | Registrarse como consumidor | Como consumidor, quiero registrarme de manera sencilla, para acceder a productos orgánicos. | Alta | 5 |
+| 9 | S2-US02 | Buscar productos | Como consumidor, quiero buscar productos ecológicos, para comprar de manera informada. | Alta | 8 |
+| 10 | S2-US03 | Ver impacto positivo | Como consumidor, quiero ver el impacto positivo de mis compras, para sentirme parte del cambio ecológico. | Media | 5 |
+| 11 | S2-US04 | Comprar productos | Como consumidor, quiero comprar productos directamente, para recibir productos frescos en casa. | Alta | 8 |
+| 12 | S2-US05 | Consultar historial de compras | Como consumidor, quiero revisar mi historial de compras, para llevar un control de mi consumo ecológico. | Media | 5 |
+| 13 | S2-US06 | Compartir compras | Como consumidor, quiero compartir mis compras en redes sociales, para motivar a otros a consumir ecológico. | Baja | 3 |
+
