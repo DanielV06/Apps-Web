@@ -113,8 +113,7 @@ Datos del entrevistado:
 
 Informe del resumen de la entrevista:
 
-Maryori Atanacio Cruces requiere servicios técnicos aproximadamente cada seis meses o cuando surge una urgencia. Actualmente suele encontrar técnicos a través de recomendaciones de amigos, familiares o en grupos de Facebook. Ha tenido malas experiencias con técnicos informales, por lo que ahora prioriza elegir basándose en precios, reseñas y recomendaciones. Le genera confianza que el técnico tenga un perfil bien presentado, reseñas reales y que ofrezca alguna identificación. Ha utilizado la app "Homy" porque ofrece técnicos verificados y respaldo en caso de problemas. Está dispuesta a pagar un precio más alto por un técnico verificado y prefiere comparar varias opciones antes de contratar para evitar riesgos.
-
+Maryori compra productos orgánicos aproximadamente una vez por semana, aunque a veces no puede debido al precio o a la falta de disponibilidad. Encuentra dificultades principalmente en el costo elevado y la poca variedad en los supermercados, además de la falta de información clara sobre la autenticidad de los productos. Para ella, es importante que el transporte también sea sostenible, ya que considera que todo el proceso debe ser coherente. Estaría dispuesta a pagar un poco más por un servicio de entrega que reduzca el impacto ambiental, siempre que el precio sea razonable. Valora principalmente el cuidado del producto durante el traslado, seguido por la reducción de la huella de carbono. En cuanto a la entrega, prefiere recibir sus pedidos en casa, pero con la opción de elegir horarios flexibles para mayor comodidad.
 
 
 ### 2.2.3. Análisis de entrevistas
