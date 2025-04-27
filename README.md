@@ -528,7 +528,7 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
-![team-collab-ins-sprint2](img_graficas/analytics-collaboration-insights-sprint2.png)
+![team-collab-ins-sprint1](img_graficas/Evidencia6.png))
 
 
 - - -
