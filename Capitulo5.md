@@ -366,11 +366,11 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Prepared By</td>
-            <td colspan="1"> , </td>
+            <td colspan="1"> Daniel Valdizan Grijalba </td>
 		</tr>
         <tr>
 			<td colspan="1"> Attendees (to planning meeting)</td>
-            <td colspan="1">  /  /  /  </td>
+            <td colspan="1">  Roy Fernández Remón/ Oskar Rodrigo Sosa Soto/ Henry Kevin Diaz Gutierrez/ Sebastián De Las Casas Latour </td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 – 1 Review Summary </td>
