@@ -152,7 +152,54 @@ Jefry compra productos orgánicos de manera ocasional, aproximadamente una vez a
 | Factores más valorados en la entrega | Cuidado del producto, reducción de huella de carbono | Cuidado del producto, impacto ambiental bajo |
 | Modalidad de entrega preferida | Entrega en casa con horarios flexibles | Entrega en casa con horarios flexibles |
 
+**Análisis Cuantitativo**
 
+- Edad promedio:
+
+Ambos entrevistados tienen 23 años, por lo que la edad promedio es 23 años.
+
+- Distrito de residencia:
+
+El 100% de los entrevistados reside en San Juan de Lurigancho, Lima, Perú.
+
+- Frecuencia de compra de productos orgánicos:
+
+Compra semanal: 50% (Maryori)
+
+Compra mensual o menos: 50% (Jefry)
+
+- Importancia asignada al transporte sostenible:
+
+Alta importancia: 50% (Maryori)
+
+Moderada importancia: 50% (Jefry)
+
+- Disposición a pagar más por un servicio sostenible:
+
+Dispuestos con condición de precio razonable: 100% (Ambos)
+
+- Factores más valorados en un servicio de entrega sostenible:
+
+Cuidado del producto: 100% (Ambos mencionaron que lo más importante es que llegue en buen estado)
+
+Reducción de huella de carbono: 100% lo consideran un valor agregado importante.
+
+- Preferencia de método de entrega:
+
+Entrega en casa con horarios flexibles: 100% (Ambos)
+
+**Principales Observaciones y Tendencias**
+
+- Perfil demográfico:
+  Ambos entrevistados son jóvenes de 23 años de edad, habitantes del distrito más poblado de Lima Metropolitana, lo que indica que representan una población joven urbana de clase media que está comenzando a preocuparse tanto por su alimentación como por prácticas sostenibles, aunque con limitaciones económicas.
+- Conciencia ambiental:
+  Existe conciencia creciente sobre la importancia de la sostenibilidad no solo en el producto sino también en la cadena logística (transporte), aunque en el caso de Jefry, esta conciencia aún no es prioritaria frente a factores como el costo.
+- Limitaciones económicas:
+  Ambos están dispuestos a pagar un monto extra por servicios sostenibles siempre que el precio sea razonable, lo cual demuestra que la sostenibilidad es valorada, pero el factor económico sigue siendo una barrera principal.
+- Importancia del cuidado del producto:
+  Tanto Maryori como Jefry destacan que el cuidado y conservación del estado del producto es incluso más importante que la rapidez de la entrega, mostrando una preferencia por calidad antes que velocidad.
+- Modalidad de entrega:
+  Ambos prefieren claramente la entrega en domicilio con la opción de flexibilidad horaria, lo cual puede interpretarse como una necesidad de conveniencia adaptada a horarios cambiantes o compromisos laborales/estudiantiles.
 
 ## 2.3. Needfinding
 
