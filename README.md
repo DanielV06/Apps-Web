@@ -205,7 +205,10 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | De Las Casas Latour, Sebastián **TB1:** En esta entrega me encargué de desarrollar todo el capítulo 5 del informe. | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | De Las Casas Latour, Sebastián  **TB1:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. |En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. |
 
-
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
+| :---- | :---- | :---- |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Oskar Rodrigo Sosa Soto **TB1:** En esta entrega me encargué de desarrollar el capítulo 3 del informe. | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Oskar Rodrigo Sosa Soto  **TB1:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. |En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. |
 
 # Capítulo I: Introducción
 
@@ -239,8 +242,8 @@ Nuestra visión es ser la principal plataforma de logística orgánica en Améri
 |                    Nombre                       |                                                     Descripción                                                                                                                                                                                                                                                                                                    |
 | :------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |Daniel Valdizan Grijalba | Mi nombre es Daniel Valdizán Grijalba, tengo 19 años y estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona que trabaja bien en equipo y maneja estar bajo presión. Me comprometo a apoyar de la mejor manera al grupo en este trabajo.  |
-|Roy Fernández Remón	 |   |
-| Oskar Rodrigo Sosa Soto |  |
+|Roy Fernández Remón	 |  |
+| Oskar Rodrigo Sosa Soto | Mi nombre es Oskar Rodrigo Sosa Soto tengo 20 años soy de la carrera de ingeniería de software, actualmente en mis tiempos libres me gusta aprender programación backend e ir al gym. Me considero que soy bueno trabajando en equipo |
 | Henry Kevin Diaz Gutierrez | Mi nombre es Henry Kevin Diaz Gutierrez, tengo 24 años, soy estudiante de Ingenieria de Software en la UPC.Me caracterizo por ser creativo , cumplir con lo que se me brinda y ayudar a resolver problemas si se presenta.Desde siempre me intereso el tema de los videojuegos y de el tipo de diseño que se empleaba, eso hizo que me guste el desarrollo de software.  |
 |Sebastián De Las Casas Latour  | Mi nombre es Sebastián De Las Casas y tengo 21 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona paciente, optimista y que se maneja bien bajo presión. Como miembro del equipo me esforzaré en apoyar en todo lo que pueda al avance del trabajo. |
 
