@@ -105,5 +105,10 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta |  |  |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. |  |  |
+| Trabaja en equipo para 
+proporcionar liderazgo en 
+forma conjunta |  |  |
+| Crea un entorno colaborativo 
+e inclusivo, establece metas, 
+planifica tareas y cumple 
+objetivos. |  |  |
