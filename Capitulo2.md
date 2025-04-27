@@ -87,6 +87,30 @@ Público objetivo: Productores ecológicos, transportistas independientes, dueñ
 
 ### 2.2.2. Registro de entrevistas
 
+En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
+
+#### **Segmento 1 - Agricultores orgánicos:**
+
+#### **Segmento 2 - Consumidores que compran orgánicos para el hogar:**
+
+**Entrevista 1:**
+
+Datos del entrevistador: 
+
+- Nombres: Roy 
+- Apellidos: Fernández Remón
+
+Datos del entrevistado:
+
+- Nombres: Maryori
+- Apellidos: Atanacio Cruces
+- Edad: 23
+- Distrito de Residencia: San Juan de Lurigancho
+- Enlace de la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ERLX-yDA3AxFms9Sf9m9fMQBGBvAYX8Vsz3P6e4t2JQP5w?e=1M2dSb)
+- Duración de la entrevista: 3:53
+
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
