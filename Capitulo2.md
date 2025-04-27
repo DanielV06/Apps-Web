@@ -109,7 +109,7 @@ Datos del entrevistado:
 - Enlace de la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ERLX-yDA3AxFms9Sf9m9fMQBGBvAYX8Vsz3P6e4t2JQP5w?e=1M2dSb)
 - Duración de la entrevista: 3:53
 
-
+<img src="assets/images/ImgResources/Entrevista%20Maryori.png"/>
 
 ### 2.2.3. Análisis de entrevistas
 
