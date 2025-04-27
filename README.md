@@ -703,7 +703,91 @@ Informe del resumen de la entrevista:
 
 Maryori compra productos orgánicos aproximadamente una vez por semana, aunque a veces no puede debido al precio o a la falta de disponibilidad. Encuentra dificultades principalmente en el costo elevado y la poca variedad en los supermercados, además de la falta de información clara sobre la autenticidad de los productos. Para ella, es importante que el transporte también sea sostenible, ya que considera que todo el proceso debe ser coherente. Estaría dispuesta a pagar un poco más por un servicio de entrega que reduzca el impacto ambiental, siempre que el precio sea razonable. Valora principalmente el cuidado del producto durante el traslado, seguido por la reducción de la huella de carbono. En cuanto a la entrega, prefiere recibir sus pedidos en casa, pero con la opción de elegir horarios flexibles para mayor comodidad.
 
+**Entrevista 2:**
+
+Datos del entrevistador:
+
+- Nombres: Roy
+- Apellidos: Fernández Remón
+
+Datos del entrevistado:
+
+- Nombres: Jefry
+- Apellidos: Prado Remón
+- Edad: 23
+- Distrito de Residencia: San Juan de Lurigancho
+- Enlace de la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Eee_H_2otCpCiy7uXoqaRGQBTUcX3nujt9iXIQht6Q6uvw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YZAEpz)
+- Duración de la entrevista: 2:45
+
+<img src="assets/images/ImgResources/Entrevista%20Jefry.png"/>
+
+Informe del resumen de la entrevista:
+
+Jefry compra productos orgánicos de manera ocasional, aproximadamente una vez al mes o cuando encuentra buenas ofertas, ya que el precio y la limitada disponibilidad en su zona son las principales barreras. Aunque no suele pensar mucho en la sostenibilidad del transporte, considera positivo que el proceso sea ecológico si se le ofrece la opción. Estaría dispuesto a pagar un poco más por un servicio de entrega sostenible, siempre que la diferencia no sea muy alta. Para él, lo más importante es que el producto llegue en buen estado, valorando luego el bajo impacto ambiental. Prefiere recibir sus pedidos en casa y tener la posibilidad de coordinar horarios flexibles debido a su disponibilidad limitada.
+
 ### 2.2.3. Análisis de entrevistas
+
+**Datos Generales de los Entrevistados**
+
+| Aspecto | Maryori Atanacio Cruces | Jefry Prado Remón |
+|:---|:---|:---|
+| Edad | 23 años | 23 años |
+| Distrito de residencia | San Juan de Lurigancho, Lima, Perú | San Juan de Lurigancho, Lima, Perú |
+| Frecuencia de compra de productos orgánicos | Aproximadamente 1 vez por semana | Aproximadamente 1 vez al mes |
+| Principales dificultades | Precio elevado, escasa variedad, falta de información clara | Precio elevado, poca disponibilidad en su zona |
+| Importancia del transporte sostenible | Alta | Moderada |
+| Disposición a pagar extra por un servicio sostenible | Sí, con moderación en el precio | Sí, si el precio no es excesivo |
+| Factores más valorados en la entrega | Cuidado del producto, reducción de huella de carbono | Cuidado del producto, impacto ambiental bajo |
+| Modalidad de entrega preferida | Entrega en casa con horarios flexibles | Entrega en casa con horarios flexibles |
+
+**Análisis Cuantitativo**
+
+- Edad promedio:
+
+Ambos entrevistados tienen 23 años, por lo que la edad promedio es 23 años.
+
+- Distrito de residencia:
+
+El 100% de los entrevistados reside en San Juan de Lurigancho, Lima, Perú.
+
+- Frecuencia de compra de productos orgánicos:
+
+Compra semanal: 50% (Maryori)
+
+Compra mensual o menos: 50% (Jefry)
+
+- Importancia asignada al transporte sostenible:
+
+Alta importancia: 50% (Maryori)
+
+Moderada importancia: 50% (Jefry)
+
+- Disposición a pagar más por un servicio sostenible:
+
+Dispuestos con condición de precio razonable: 100% (Ambos)
+
+- Factores más valorados en un servicio de entrega sostenible:
+
+Cuidado del producto: 100% (Ambos mencionaron que lo más importante es que llegue en buen estado)
+
+Reducción de huella de carbono: 100% lo consideran un valor agregado importante.
+
+- Preferencia de método de entrega:
+
+Entrega en casa con horarios flexibles: 100% (Ambos)
+
+**Principales Observaciones y Tendencias**
+
+- Perfil demográfico:
+  Ambos entrevistados son jóvenes de 23 años de edad, habitantes del distrito más poblado de Lima Metropolitana, lo que indica que representan una población joven urbana de clase media que está comenzando a preocuparse tanto por su alimentación como por prácticas sostenibles, aunque con limitaciones económicas.
+- Conciencia ambiental:
+  Existe conciencia creciente sobre la importancia de la sostenibilidad no solo en el producto sino también en la cadena logística (transporte), aunque en el caso de Jefry, esta conciencia aún no es prioritaria frente a factores como el costo.
+- Limitaciones económicas:
+  Ambos están dispuestos a pagar un monto extra por servicios sostenibles siempre que el precio sea razonable, lo cual demuestra que la sostenibilidad es valorada, pero el factor económico sigue siendo una barrera principal.
+- Importancia del cuidado del producto:
+  Tanto Maryori como Jefry destacan que el cuidado y conservación del estado del producto es incluso más importante que la rapidez de la entrega, mostrando una preferencia por calidad antes que velocidad.
+- Modalidad de entrega:
+  Ambos prefieren claramente la entrega en domicilio con la opción de flexibilidad horaria, lo cual puede interpretarse como una necesidad de conveniencia adaptada a horarios cambiantes o compromisos laborales/estudiantiles.
 
 ## 2.3. Needfinding
 
