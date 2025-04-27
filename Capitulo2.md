@@ -139,6 +139,21 @@ Jefry compra productos orgánicos de manera ocasional, aproximadamente una vez a
 
 ### 2.2.3. Análisis de entrevistas
 
+**Datos Generales de los Entrevistados**
+
+| Aspecto | Maryori Atanacio Cruces | Jefry Prado Remón |
+|:---|:---|:---|
+| Edad | 23 años | 23 años |
+| Distrito de residencia | San Juan de Lurigancho, Lima, Perú | San Juan de Lurigancho, Lima, Perú |
+| Frecuencia de compra de productos orgánicos | Aproximadamente 1 vez por semana | Aproximadamente 1 vez al mes |
+| Principales dificultades | Precio elevado, escasa variedad, falta de información clara | Precio elevado, poca disponibilidad en su zona |
+| Importancia del transporte sostenible | Alta | Moderada |
+| Disposición a pagar extra por un servicio sostenible | Sí, con moderación en el precio | Sí, si el precio no es excesivo |
+| Factores más valorados en la entrega | Cuidado del producto, reducción de huella de carbono | Cuidado del producto, impacto ambiental bajo |
+| Modalidad de entrega preferida | Entrega en casa con horarios flexibles | Entrega en casa con horarios flexibles |
+
+
+
 ## 2.3. Needfinding
 
 En esta sección analizamos la información recopilada en las entrevistas realizadas a nuestros segmentos objetivos.
