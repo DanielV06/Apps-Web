@@ -235,7 +235,7 @@ Nuestra visión es ser la principal plataforma de logística orgánica en Améri
 |Daniel Valdizan Grijalba |   |
 |Roy Fernández Remón	 |   |
 | Oskar Rodrigo Sosa Soto |  |
-| Henry Kevin Diaz Gutierrez |  |
+| Henry Kevin Diaz Gutierrez | Mi nombre es Henry Kevin Diaz Gutierrez, tengo 24 años, soy estudiante de Ingenieria de Software en la UPC.Me caracterizo por ser creativo , cumplir con lo que se me brinda y ayudar a resolver problemas si se presenta.Desde siempre me intereso el tema de los videojuegos y de el tipo de diseño que se empleaba, eso hizo que me guste el desarrollo de software.  |
 |Sebastián De Las Casas Latour  | Mi nombre es Sebastián De Las Casas y tengo 21 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona paciente, optimista y que se maneja bien bajo presión. Como miembro del equipo me esforzaré en apoyar en todo lo que pueda al avance del trabajo. |
 
 
