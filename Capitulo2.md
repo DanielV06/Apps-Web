@@ -115,6 +115,27 @@ Informe del resumen de la entrevista:
 
 Maryori compra productos orgánicos aproximadamente una vez por semana, aunque a veces no puede debido al precio o a la falta de disponibilidad. Encuentra dificultades principalmente en el costo elevado y la poca variedad en los supermercados, además de la falta de información clara sobre la autenticidad de los productos. Para ella, es importante que el transporte también sea sostenible, ya que considera que todo el proceso debe ser coherente. Estaría dispuesta a pagar un poco más por un servicio de entrega que reduzca el impacto ambiental, siempre que el precio sea razonable. Valora principalmente el cuidado del producto durante el traslado, seguido por la reducción de la huella de carbono. En cuanto a la entrega, prefiere recibir sus pedidos en casa, pero con la opción de elegir horarios flexibles para mayor comodidad.
 
+**Entrevista 2:**
+
+Datos del entrevistador:
+
+- Nombres: Roy
+- Apellidos: Fernández Remón
+
+Datos del entrevistado:
+
+- Nombres: Jefry
+- Apellidos: Prado Remón
+- Edad: 23
+- Distrito de Residencia: San Juan de Lurigancho
+- Enlace de la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Eee_H_2otCpCiy7uXoqaRGQBTUcX3nujt9iXIQht6Q6uvw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YZAEpz)
+- Duración de la entrevista: 2:45
+
+<img src="assets/images/ImgResources/Entrevista%20Jefry.png"/>
+
+Informe del resumen de la entrevista:
+
+Jefry compra productos orgánicos de manera ocasional, aproximadamente una vez al mes o cuando encuentra buenas ofertas, ya que el precio y la limitada disponibilidad en su zona son las principales barreras. Aunque no suele pensar mucho en la sostenibilidad del transporte, considera positivo que el proceso sea ecológico si se le ofrece la opción. Estaría dispuesto a pagar un poco más por un servicio de entrega sostenible, siempre que la diferencia no sea muy alta. Para él, lo más importante es que el producto llegue en buen estado, valorando luego el bajo impacto ambiental. Prefiere recibir sus pedidos en casa y tener la posibilidad de coordinar horarios flexibles debido a su disponibilidad limitada.
 
 ### 2.2.3. Análisis de entrevistas
 
