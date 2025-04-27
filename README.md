@@ -46,8 +46,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
-| 1.0 |  |  |  |
-| 1.1 |  |  | |
+| 1.0 | 26/04/2025  | Valdizán, Fernández, Rodrigo, Diaz. De Las Casas | Primera versión del informe |
+|  |  |  | |
 
 # Project Report Collaboration Insights
 
@@ -105,5 +105,5 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Valdizán Grijalba, Daniel | |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Valdizán Grijalba, Daniel | | 
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Valdizán Grijalba, Daniel **TB1:** En esta entrega me encargué de definir las pautas que nuestro proyecto seguiría. Asimismo, plasmé un prototipo inicial de las diferentes aplicaciones web que trabajarían en nuestro producto. | Se puede concluir que cada integrante examinó las diferentes variables que influyen en nuestro producto y adecuaron la solución de manera eficaz. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Valdizán Grijalba, Daniel **TB1:** Cumplí con mis tareas asignadas con cierta anticipación y logré cumplir con la gran mayoría de metas planteadas | A pesar de las dificultades, todos los integrantes del proyecto aportaron con puntialidad con las metas y objetivos establecidos para este entregable | 
