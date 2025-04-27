@@ -57,8 +57,8 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 
 | Integrante          | Tareas Asignadas |
 |:--------------------| :---- |
-| Roy Fernández Remón |  |
-|Oskar Rodrigo Sosa   |  |
+| Roy Fernández Remón | Eealización del capitulo 2 |
+|Oskar Rodrigo Sosa   | Realización del capitulo 3 |
 |Henry Diaz Gutierrez | Realización del capitulo 1 |
 |Daniel Valdizán Grijalba | Realización del capítulo 4 |
 | Sebastián De Las Casas Latour | Realización del capítulo 5 |
@@ -203,7 +203,8 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | De Las Casas Latour, Sebastián **TB1:** En esta entrega me encargué de desarrollar todo el capítulo 5 del informe. | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | De Las Casas Latour, Sebastián  **TB1:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. |En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. | 
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | De Las Casas Latour, Sebastián  **TB1:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. |En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. |
+
 
 
 # Capítulo I: Introducción
