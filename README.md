@@ -1430,35 +1430,35 @@ Trabajado en LucidChart: [Enlace](https://lucid.app/lucidchart/54c96a10-3216-4c5
 
 ### 4.4.3. Web Applications Mock-ups
 
-![Inicio](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0013.jpg)
+![Inicio](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0013.jpg)
 
-![Registro](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0014.jpg)
+![Registro](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0014.jpg)
 
 **Web Apps / Productores:**
 En esta sección se detallan los mockups pertenecientes al inicio de sesión como **PRODUCTOR**, ahora siguiendo las pautas anteriormente detalladas en el estilo que la página adoptaría.
 
-![Dashboard](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0015.jpg)
+![Dashboard](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0015.jpg)
 
-![Registro_Producto](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0016.jpg)
+![Registro_Producto](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0016.jpg)
 
-![Transporte](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0017.jpg)
+![Transporte](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0017.jpg)
 
-![Estadisticas](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0018.jpg)
+![Estadisticas](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0018.jpg)
 
-![Perfil](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0019.jpg)
+![Perfil](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0019.jpg)
 
 **Web Apps / Consumidores:**
 En esta sección se detallan los mockups pertenecientes al inicio de sesión como **CONSUMIDOR**, ahora siguiendo las pautas anteriormente detalladas en el estilo que la página adoptaría.
 
-![Home](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0020.jpg)
+![Home](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0020.jpg)
 
-![DetallesProductor](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0021.jpg)
+![DetallesProductor](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0021.jpg)
 
-![Carrito](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0022.jpg)
+![Carrito](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0022.jpg)
 
-![Seguimientopedido](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0023.jpg)
+![Seguimientopedido](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0023.jpg)
 
-![Historial1](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0024.jpg)
+![Historial1](img_graficas/WebApps/Mockups/Greenlogist-WebApplications_page-0024.jpg)
 
 Trabajado en Figma: [Enlace](https://www.figma.com/design/41WDtKvsAEetkbWrcTch0w/Greenlogist---Web-Applications?node-id=1-188&t=qb4RQlPHM32wWfRl-1)
 
