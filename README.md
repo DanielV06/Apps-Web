@@ -1385,37 +1385,37 @@ En esta sección se mostrará los mockups para nuestra landing, tomando en cuent
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
-![Inicio](img_graficas/WebApps/Wireframes/1inicio.PNG)
+![Inicio](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0001.jpg)
 
-![Registro](img_graficas/WebApps/Wireframes/2Registro.PNG)
+![Registro](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0002.jpg)
 
 **Web Apps / Productores:**
 En esta sección se muestra los wireframes pertenecientes al inicio de sesión como **PRODUCTOR**
 
-![Dashboard](img_graficas/WebApps/Wireframes/3dashboard_productores.PNG)
+![Dashboard](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0003.jpg)
 
-![Registro_Producto](img_graficas/WebApps/Wireframes/4Registrar_producto.PNG)
+![Registro_Producto](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0004.jpg)
 
-![Transporte](img_graficas/WebApps/Wireframes/5solicitar_transporte.PNG)
+![Transporte](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0005.jpg)
 
-![Estadisticas](img_graficas/WebApps/Wireframes/6estadisticas.PNG)
+![Estadisticas](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0006.jpg)
 
-![Perfil](img_graficas/WebApps/Wireframes/7perfil_del_productor.PNG)
+![Perfil](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0007.jpg)
 
 **Web Apps / Consumidores:**
 En esta sección se muestra los wireframes pertenecientes al inicio de sesión como **CONSUMIDOR**
 
-![Home](img_graficas/WebApps/Wireframes/8consumidor_home.PNG)
+![Home](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0008.jpg)
 
-![DetallesProductor](img_graficas/WebApps/Wireframes/9consumidor_detalles_productor.PNG)
+![DetallesProductor](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0009.jpg)
 
-![Carrito](img_graficas/WebApps/Wireframes/10consumidor_carrito.PNG)
+![Carrito](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0010.jpg)
 
-![Seguimientopedido](img_graficas/WebApps/Wireframes/11consumidor_seguimiento.PNG)
+![Seguimientopedido](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0011.jpg)
 
-![Historial1](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_1.PNG)
+![Historial1](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0012.jpg)
 
-![Reseña](img_graficas/WebApps/Wireframes/consumidor_historial_y_reseña_2.PNG)
+Trabajado en Figma: [Enlace](https://www.figma.com/design/41WDtKvsAEetkbWrcTch0w/Greenlogist---Web-Applications?node-id=1-188&t=qb4RQlPHM32wWfRl-1)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 A continuación se detallarán los Wireflow Diagrams para los usuarios Productores y Consumidores de nuestro programa. Esto se analizó tomando en cuenta las User Stories y las necesidades que los usuarios podrían presentar al visitar nuestro servicio.
@@ -1430,37 +1430,37 @@ Trabajado en LucidChart: [Enlace](https://lucid.app/lucidchart/54c96a10-3216-4c5
 
 ### 4.4.3. Web Applications Mock-ups
 
-![Inicio](img_graficas/WebApps/Mockups/1inicio.PNG)
+![Inicio](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0013.jpg)
 
-![Registro](img_graficas/WebApps/Mockups/2Registro.PNG)
+![Registro](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0014.jpg)
 
 **Web Apps / Productores:**
 En esta sección se detallan los mockups pertenecientes al inicio de sesión como **PRODUCTOR**, ahora siguiendo las pautas anteriormente detalladas en el estilo que la página adoptaría.
 
-![Dashboard](img_graficas/WebApps/Mockups/3dashboard_productores.PNG)
+![Dashboard](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0015.jpg)
 
-![Registro_Producto](img_graficas/WebApps/Mockups/4Registrar_producto.PNG)
+![Registro_Producto](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0016.jpg)
 
-![Transporte](img_graficas/WebApps/Mockups/5solicitar_transporte.PNG)
+![Transporte](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0017.jpg)
 
-![Estadisticas](img_graficas/WebApps/Mockups/6estadisticas.PNG)
+![Estadisticas](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0018.jpg)
 
-![Perfil](img_graficas/WebApps/Mockups/7perfil_del_productor.PNG)
+![Perfil](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0019.jpg)
 
 **Web Apps / Consumidores:**
 En esta sección se detallan los mockups pertenecientes al inicio de sesión como **CONSUMIDOR**, ahora siguiendo las pautas anteriormente detalladas en el estilo que la página adoptaría.
 
-![Home](img_graficas/WebApps/Mockups/8consumidor_home.PNG)
+![Home](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0020.jpg)
 
-![DetallesProductor](img_graficas/WebApps/Mockups/9consumidor_detalles_productor.PNG)
+![DetallesProductor](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0021.jpg)
 
-![Carrito](img_graficas/WebApps/Mockups/10consumidor_carrito.PNG)
+![Carrito](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0022.jpg)
 
-![Seguimientopedido](img_graficas/WebApps/Mockups/11consumidor_seguimiento.PNG)
+![Seguimientopedido](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0023.jpg)
 
-![Historial1](img_graficas/WebApps/Mockups/consumidor_historial_y_reseña_1.PNG)
+![Historial1](img_graficas/WebApps/Wireframes/Greenlogist-WebApplications_page-0024.jpg)
 
-![Reseña](img_graficas/WebApps/Mockups/consumidor_historial_y_reseña_2.PNG)
+Trabajado en Figma: [Enlace](https://www.figma.com/design/41WDtKvsAEetkbWrcTch0w/Greenlogist---Web-Applications?node-id=1-188&t=qb4RQlPHM32wWfRl-1)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
