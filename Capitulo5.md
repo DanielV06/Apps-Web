@@ -576,7 +576,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
          <tr>
 			<td colspan="1">Sprint 2 Goal</td>
-            <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Finalización de reporte y despliegue sin problemas de la Landing Page que se encuentran en nuestro repositorio. La métrica de cumplimiento se basará en el proceso de cómo nuestro "Board de Trello" luzca con el paso del tiempo, nuestro resultado final debe de mostrar todas las tareas en el lado derecho de la herramienta, ubicándolos en la columna "Terminado"</td>
+            <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Finalización del frontend y actualización del informe. </td>
 		</tr>
         <tr>
 			<td colspan="1">Sprint 2 Velocity </td>
@@ -591,7 +591,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 
 #### 5.2.2.2. Sprint Backlog 2.
 
-En este primer sprint, nos enfocamos en la implementación de las funcionalidades básicas de la Landing Page, incluyendo la estructura general, el diseño visual y la navegación básica, también se ha creado un reporte que muestra el ciclo de vida de todo nuestro proyecto de software. Estas características son fundamentales para establecer las bases de nuestro producto y proporcionar una experiencia de usuario sólida y coherente.
+En este segundo sprint, nos enfocamos en la implementación del frontend y actualización del informe, adaptando el trabajo realizado en la TB1.
 A continuación el sprint backlog 2: 
 
 <table>
