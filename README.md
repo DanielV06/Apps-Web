@@ -224,8 +224,8 @@ Para el desarrollo de la TP nos hemos dividido como equipo diferentes tareas par
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Diaz Gutierrez, Henry **TB1:** En esta entrega me encargué de realizar el capitulo 1 como tambien ayudar a realizar los diagramas.Ademas pude realizar algunos puntos del landig page | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Diaz Gutierrez, Henry  **TB1:** Logre culminar y cumplir con mis tareas asignadas y ademas pude realizar ciertos cambios al documento con cierta anticipacion.|En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. | 
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Diaz Gutierrez, Henry **TP1:** En esta entrega me encargué de realizar el sistema de perfiles y estadisticas .Ademas logre desplegar el landing page | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Diaz Gutierrez, Henry  **TP1:** Logre culminar y cumplir con mis tareas asignadas y ademas pude realizar ciertos cambios al documento con cierta anticipacion.|En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. | 
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
