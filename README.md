@@ -2146,5 +2146,165 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ![team-collab-ins-sprint1](img_graficas/Evidencia6.png))
 
+### 5.2.2. Sprint 2
+El segundo sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación del frontend y adaptar el trabajo realizado en el TB1.
+#### 5.2.2.1. Sprint Planning 2.
+El sprint planning es una reunión en la metodología ágil donde el equipo planifica las actividades del próximo sprint. Define qué trabajo se hará, cuánto tiempo tomará y quién será responsable. El objetivo es establecer un plan claro y alcanzable para el equipo, fomentando la colaboración y asegurando que todos estén alineados en cuanto a objetivos y prioridades.
+<table  style="text-align: center;">
+    <tbody>
+        <tr>
+			<td colspan="1">Sprint #</td>
+            <td colspan="1"> Sprint 2  </td>
+		</tr>
+        <tr>
+			<td colspan="2">Sprint Planning Background </td>
+		</tr>
+        <tr>
+			<td colspan="1">Date</td>
+            <td colspan="1"> 2025-05-13 </td>
+		</tr>
+        <tr>
+			<td colspan="1">Time</td>
+            <td colspan="1"> 10:00 PM </td>
+		</tr>
+        <tr>
+			<td colspan="1">Location</td>
+            <td colspan="1">Microsoft Teams (Reunion virtual)</td>
+		</tr>
+        <tr>
+			<td colspan="1">Prepared By</td>
+            <td colspan="1"> Team Leader </td>
+		</tr>
+        <tr>
+			<td colspan="1"> Attendees (to planning meeting)</td>
+            <td colspan="1"> All team members  </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 2 – 2 Review Summary </td>
+            <td colspan="1">Se alcanzaron los objetivos del sprint como la implementación del frontend y la actualización del capítulo 5 del informe..</td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 2 – 2 Retrospective Summary </td>
+            <td colspan="1">El sprint 2 también fue ineficiente en términos de cooperación, se organizó mal el uso del tiempo y esto dio como resultado la entrega de un producto incompleto y para nada profesional. El Team Leader mencionó puntos de mejora, siendo estos: "Más dedicación por parte de todo el equipo, reuniones diarias para analizar el desarrollo de vida del proyecto de software, más comunicación entre los integrantes del equipo y maximizar el uso de herramientas de software para manejar las tareas pendientes de cada sprint."</td>
+		</tr>
+         <tr>
+			<td colspan="2">Sprint Goal & User Stories </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 2 Goal</td>
+            <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Finalización del frontend y actualización del informe. </td>
+		</tr>
+        <tr>
+			<td colspan="1">Sprint 2 Velocity </td>
+            <td colspan="1">Para este sprint se han elegido un User Stories que tiene 8 Story points y un User Stories que tiene 3 Story points </td>
+		</tr>
+        <tr>
+			<td colspan="1">Sum of Story Points </td>
+            <td colspan="1">12</td>
+		</tr>
+</tbody>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+En este segundo sprint, nos enfocamos en la implementación del frontend y actualización del informe, adaptando el trabajo realizado en la TB1.
+A continuación el sprint backlog 2: 
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK007</td>
+			<td>Update Remote environment creation for Report and Landing Page</td>
+			<td>Organization, repositories and branch creation in GitHub</td>
+			<td>1</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK008</td>
+			<td>Update Chapter05</td>
+			<td>Update all section and add the respective information in chapter05</td>
+			<td>2</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK009</td>
+			<td>Frontend implementation</td>
+			<td>Implement and update the app frontend</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+    <tbody>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
+
+Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
+
+| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) (mm/dd/yyy)|
+|---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| /Report | develop | 98783487238973c5dd4a8097197adb2cf70af00b | feat: added content in chapter V        | added content in final sections of chapter05                                                                                                          | 5/12/2024           |
+| /Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5b | feat(assets)                             | added img to master branch                                                                                                                          | 5/12/2024           |
+
+
+A continuación se presentan los commits más importantes para la Landing Page, los cuales muestran todo el contenido visual y funcionalidades implementadas en el Sprint 2:
+
+| Repository                      | Branch                | Commit ID                                | Commit Message                   | Commit Message Body                                                                                                                                 | Commited on (Date) (mm/dd/yyy)|
+|---------------------------------|-----------------------|------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| Dev1/LandingPageGreenlogist  | feat-inicio-sesion       | 563de4f7bde5ef4a20ce639bc4f6bd881d205859 | feat(sign-in)          | implemented sign in page.                                                                                                                                     | 5/12/2025          |
+| Dev3/LandingPageGreenlogist  | feature-crear-cuenta   | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f53 | feat: (create-account) | added subscription section with user feedback                                                                                                                   | 5/12/2025          |
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En esta entrega, el equipo de desarrolladores de Greenlogist ha completado con éxito la implementación y el lanzamiento del frontend. Se evidencian las páginas de inicio de sesión y creación de cuenta.
+
+![Evidencia1](img_graficas/Evidencia2.1.png)
+![Evidencia2](img_graficas/Evidencia2.2.png)
+![Evidencia3](img_graficas/Evidencia2.3.png)
+![Evidencia4](img_graficas/Evidencia2.4.png)
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
+
+![team-collab-ins-sprint1](img_graficas/Evidencia2.5.png))
+
+- - -
 
 - - -
