@@ -531,7 +531,7 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 ![team-collab-ins-sprint1](img_graficas/Evidencia6.png))
  
 ### 5.2.2. Sprint 2
-El segundo sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
+El segundo sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación del frontend y adaptar el trabajo realizado en el TB1.
 #### 5.2.2.1. Sprint Planning 2.
 El sprint planning es una reunión en la metodología ágil donde el equipo planifica las actividades del próximo sprint. Define qué trabajo se hará, cuánto tiempo tomará y quién será responsable. El objetivo es establecer un plan claro y alcanzable para el equipo, fomentando la colaboración y asegurando que todos estén alineados en cuanto a objetivos y prioridades.
 <table  style="text-align: center;">
