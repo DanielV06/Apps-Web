@@ -2270,8 +2270,8 @@ Primero, se mostrarán los commits más importantes para el Reporte, los cuales 
 
 | Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) (mm/dd/yyy)|
 |---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| /Report | develop | 98783487238973c5dd4a8097197adb2cf70af00b | feat: added content in chapter V        | added content in final sections of chapter05                                                                                                          | 5/12/2024           |
-| /Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5b | feat(assets)                             | added img to master branch                                                                                                                          | 5/12/2024           |
+| /Report | develop | 98783487238973c5dd4a8097197adb2cf70af00b | feat: added content in chapter V        | added content in final sections of chapter05                                                                                                          | 5/12/2025           |
+| /Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5b | feat(assets)                             | added img to master branch                                                                                                                          | 5/12/2025           |
 
 
 A continuación se presentan los commits más importantes para la Landing Page, los cuales muestran todo el contenido visual y funcionalidades implementadas en el Sprint 2:
