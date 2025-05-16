@@ -219,6 +219,11 @@ Para el desarrollo de la TP nos hemos dividido como equipo diferentes tareas par
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Valdizán Grijalba, Daniel **TP1:** En esta entrega me encargué de crear la vista de las paginas principales de nuestras web applications. Asimismo, plasmé un prototipo inicial de las diferentes aplicaciones web que trabajarían en nuestro producto. | Se puede concluir que cada integrante Interpretó de la mejor manera los mockups de las páginas para realizar sus vistas. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Valdizán Grijalba, Daniel  **TP1:** Cumplí con mis tareas asignadas con cierta dificultad y logré cumplir con la gran mayoría de metas planteadas | A pesar de las dificultades, todos los integrantes del proyecto aportaron con puntialidad con las metas y objetivos establecidos para este entregable | 
+
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
+| :---- | :---- | :---- |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | Diaz Gutierrez, Henry **TB1:** En esta entrega me encargué de realizar el capitulo 1 como tambien ayudar a realizar los diagramas.Ademas pude realizar algunos puntos del landig page | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Diaz Gutierrez, Henry  **TB1:** Logre culminar y cumplir con mis tareas asignadas y ademas pude realizar ciertos cambios al documento con cierta anticipacion.|En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. | 
 
