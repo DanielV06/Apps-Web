@@ -670,7 +670,7 @@ A continuación se presentan los commits más importantes para la Landing Page, 
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-En esta entrega, el equipo de desarrolladores de Greenlogist ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+En esta entrega, el equipo de desarrolladores de Greenlogist ha completado con éxito la implementación y el lanzamiento del frontend. Se evidencian las páginas de inicio de sesión y creación de cuenta.
 
 ![Evidencia1](img_graficas/Evidencia2.1.png)
 ![Evidencia2](img_graficas/Evidencia2.2.png)
