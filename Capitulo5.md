@@ -617,60 +617,30 @@ A continuación el sprint backlog 2:
 		<tr>
 			<td></td>
 			<td></td>
-			<td>TSK001</td>
-			<td>Remote environment creation for Report and Landing Page</td>
+			<td>TSK007</td>
+			<td>Update Remote environment creation for Report and Landing Page</td>
 			<td>Organization, repositories and branch creation in GitHub</td>
-			<td>0</td>
+			<td>1</td>
 			<td>All team members</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td></td>
 			<td></td>
-			<td>TSK002</td>
-			<td>Conclude Chapter01</td>
-			<td>Finish all section and add the respective information in chapter01</td>
+			<td>TSK008</td>
+			<td>Update Chapter05</td>
+			<td>Update all section and add the respective information in chapter05</td>
+			<td>2</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK009</td>
+			<td>Frontend implementation</td>
+			<td>Implement and update the app frontend</td>
 			<td>5</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK003</td>
-			<td>Conclude Chapter02</td>
-			<td>Finish all section and add the respective information in chapter02</td>
-			<td>3</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK004</td>
-			<td>Conclude Chapter03</td>
-			<td>Finish all section and add the respective information in chapter03</td>
-			<td>5</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK005</td>
-			<td>Conclude Chapter04</td>
-			<td>Finish all section and add the respective information in chapter04</td>
-			<td>19</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK006</td>
-			<td>Conclude Chapter05</td>
-			<td>Finish all section and add the respective information in chapter05</td>
-			<td>3</td>
 			<td>All team members</td>
 			<td>Done</td>
 		</tr>
@@ -682,21 +652,19 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
 
-| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
+| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) (mm/dd/yyy)|
 |---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| /Report | develop | 98783487238973c5dd4a8097197adb2cf70af00a | feat: added content in chapter IV        | added content in all sections of chapter04                                                                                                          | 4/9/2024           |
-| /Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5a | feat(assets)                             | added img to master branch                                                                                                                          | 4/9/2024           |
+| /Report | develop | 98783487238973c5dd4a8097197adb2cf70af00b | feat: added content in chapter V        | added content in final sections of chapter05                                                                                                          | 5/12/2024           |
+| /Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5b | feat(assets)                             | added img to master branch                                                                                                                          | 5/12/2024           |
 
 
 A continuación se presentan los commits más importantes para la Landing Page, los cuales muestran todo el contenido visual y funcionalidades implementadas en el Sprint 2:
 
-| Repository                      | Branch                | Commit ID                                | Commit Message                   | Commit Message Body                                                                                                                                 | Commited on (Date) |
+| Repository                      | Branch                | Commit ID                                | Commit Message                   | Commit Message Body                                                                                                                                 | Commited on (Date) (mm/dd/yyy)|
 |---------------------------------|-----------------------|------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| Dev1/LandingPageGreenlogist  | feat-bienvenida       | 563de4f7bde5ef4a20ce639bc4f6bd881d205858 | feat(welcome-container)          | implemented cta in section home, added slogan and banner.                                                                                           | 24/4/2025           |
-| Dev3/LandingPageGreenlogist  | feature-testimonios   | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f52 | feat: added testimonials section | added subscription section with user feedback                                                                                                       | 24/4/2025           |
-| Dev2/LandingPageGreenlogist  | feature-header-footer | f8351fb08d1718af912437127ac10d350a6b0d2d | feat(header-footer)              | implemented logo in header and information in footer.                                                                                               | 24/4/2025           |
-| Dev2/LandingPageGreenlogist  | feature-contacto      | c8d979e154ceec2e6b7e924b6aa16137199f743t | feat(contact-us)                 | implemented form, description and labels                                                                                                            | 24/4/2025           |
-| Dev1/LandingPageGreenlogist  | feature-contenido     | db8e4a108071eeed824a148623bf34e7785ea988 | feat(assets): added images       | feat(assets): added all information for hero content, about us, subscriptions and other sections Also, added images for banners and everything else | 4/9/2024           |
+| Dev1/LandingPageGreenlogist  | feat-inicio-sesion       | 563de4f7bde5ef4a20ce639bc4f6bd881d205859 | feat(sign-in)          | implemented sign in page.                                                                                                                                     | 5/12/2025          |
+| Dev3/LandingPageGreenlogist  | feature-crear-cuenta   | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f53 | feat: (create-account) | added subscription section with user feedback                                                                                                                   | 5/12/2025          |
+
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
@@ -704,11 +672,11 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 
 En esta entrega, el equipo de desarrolladores de Greenlogist ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
-![Evidencia1](img_graficas/Evidencia1.png)
-![Evidencia2](img_graficas/Evidencia2.png)
-![Evidencia3](img_graficas/Evidencia3.png)
-![Evidencia4](img_graficas/Evidencia4.png)
-![Evidencia5](img_graficas/Evidencia5.png)
+![Evidencia1](img_graficas/Evidencia2.1.png)
+![Evidencia2](img_graficas/Evidencia2.2.png)
+![Evidencia3](img_graficas/Evidencia2.3.png)
+![Evidencia4](img_graficas/Evidencia2.4.png)
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
@@ -719,6 +687,6 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 
-![team-collab-ins-sprint1](img_graficas/Evidencia6.png))
+![team-collab-ins-sprint1](img_graficas/Evidencia.png))
 
 - - -
