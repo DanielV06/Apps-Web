@@ -240,7 +240,12 @@ Para el desarrollo de la TP nos hemos dividido como equipo diferentes tareas par
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | Roy Fernández Remón **TB1:** En esta entrega me encargué de desarrollar el capítulo 2 y las entrevistas del informe. | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Roy Fernández Remón  **TB1:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. |En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Roy Fernández Remón  **TB1:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. |En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. | 
+
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
+| :---- | :---- | :---- |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Roy Fernández Remón, Daniel **TP1:** En esta entrega me encargué de crear el registro de sesión para nuestros usuarios basado en el almacenamiento en un local storage y realice un login que que cumpla con todos los estandares y restricciones para nuestro proyecto. | Se puede concluir que cada integrante Interpretó de la mejor manera los mockups de las páginas para realizar sus vistas. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Roy Fernández Remón  **TP1:** Cumplí con mis tareas asignadas con cierta dificultad y logré cumplir con la gran mayoría de metas planteadas | A pesar de las dificultades, todos los integrantes del proyecto aportaron con puntialidad con las metas y objetivos establecidos para este entregable | 
 
 # Capítulo I: Introducción
 
