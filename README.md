@@ -47,6 +47,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | 1.0 | 26/04/2025  | Valdizán, Fernández, Rodrigo, Diaz. De Las Casas | Primera versión del informe |
+| 2.0 | 14/04/2025  | Valdizán, Fernández, Rodrigo, Diaz. De Las Casas | Segunda versión del informe |
 | | |    | |
 
 # Project Report Collaboration Insights
@@ -61,8 +62,19 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 |Oskar Rodrigo Sosa   | Realización del capitulo 3 |
 |Henry Diaz Gutierrez | Realización del capitulo 1 |
 |Daniel Valdizán Grijalba | Realización del capítulo 4 |
-| Sebastián De Las Casas Latour | Realización del capítulo 5 |
+|Sebastián De Las Casas Latour | Realización del capítulo 5 |
 
+## **TP**
+
+Para el desarrollo de la TP nos hemos dividido como equipo diferentes tareas para cada seccion del Trabajo.
+
+| Integrante          | Tareas Asignadas |
+|:--------------------| :---- |
+| Roy Fernández Remón | Implementación del Frontend |
+|Oskar Rodrigo Sosa   | Implementación del Frontend |
+|Henry Diaz Gutierrez | Implementación del Frontend |
+|Daniel Valdizán Grijalba | Implementación del Frontend |
+|Sebastián De Las Casas Latour | Actualización del capítulo 5 |
 
 # Tabla de contenidos
 
@@ -70,6 +82,7 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [**TB1**](#tb1)
+  - [**TP**](#tp)
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -187,6 +200,15 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#521-sprint-2)
+      - [5.2.2.1. Sprint Planning 2.](#5211-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2.](#5212-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
 
 # Student Outcome
 
@@ -202,8 +224,8 @@ Para el desarrollo de la TB1 nos hemos dividido como equipo diferentes tareas pa
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | De Las Casas Latour, Sebastián **TB1:** En esta entrega me encargué de desarrollar todo el capítulo 5 del informe. | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | De Las Casas Latour, Sebastián  **TB1:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. |En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | De Las Casas Latour, Sebastián **TB1:** En esta entrega me encargué de desarrollar todo el capítulo 5 del informe.  **TP:** En esta entrega me encargué de Actualizar y añadir secciones nuevas y pertinentes en el capítulo 5 del informe. | En conclusion todos trabajamos de manera conjunta y de esa manera se logro culminar a tiempo el tb1. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | De Las Casas Latour, Sebastián  **TB1:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. **TP:** Pude cumplir con las labores asignadas de manera efectiva y a tiempo. |En conclusion todos los integrantes del proyecto culminaron con su trabajo asignado con puntualidad, con las metas y objetivos establecidos para este entregable. |
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 | :---- | :---- | :---- |
