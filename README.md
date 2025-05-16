@@ -2295,10 +2295,14 @@ En esta entrega, el equipo de desarrolladores de Greenlogist ha completado con �
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+Para esta entrega, el equipo logró implementar de manera exitosa el frontend web app.
+
+Enlace del deploy de la web app mediante: ([Aqui va el link desplegado](https://henrydiaz12.github.io/Landing-page/))
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+Para esta entrega, el equipo logró implementar de manera exitosa el frontend web app.
+
+![Evidencia6](img_graficas/Evidencia2.6.png))
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
