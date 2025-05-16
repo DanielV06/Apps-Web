@@ -2302,7 +2302,7 @@ Enlace del deploy de la web app mediante: ([Aqui va el link desplegado](https://
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Para esta entrega, el equipo logró implementar de manera exitosa el frontend web app.
 
-![Evidencia6](img_graficas/Evidencia2.6.png))
+![Evidencia6](img_graficas/Evidencia2.6.jpeg))
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
