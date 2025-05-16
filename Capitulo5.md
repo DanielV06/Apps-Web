@@ -531,7 +531,7 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 ![team-collab-ins-sprint1](img_graficas/Evidencia6.png))
  
 ### 5.2.2. Sprint 2
-El primer sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
+El segundo sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
 #### 5.2.2.1. Sprint Planning 2.
 El sprint planning es una reunión en la metodología ágil donde el equipo planifica las actividades del próximo sprint. Define qué trabajo se hará, cuánto tiempo tomará y quién será responsable. El objetivo es establecer un plan claro y alcanzable para el equipo, fomentando la colaboración y asegurando que todos estén alineados en cuanto a objetivos y prioridades.
 <table  style="text-align: center;">
@@ -545,11 +545,11 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Date</td>
-            <td colspan="1"> 2025-04-24 </td>
+            <td colspan="1"> 2025-05-13 </td>
 		</tr>
         <tr>
 			<td colspan="1">Time</td>
-            <td colspan="1"> 11:00 PM </td>
+            <td colspan="1"> 10:00 PM </td>
 		</tr>
         <tr>
 			<td colspan="1">Location</td>
@@ -557,19 +557,19 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Prepared By</td>
-            <td colspan="1"> , </td>
+            <td colspan="1"> Team Leader </td>
 		</tr>
         <tr>
 			<td colspan="1"> Attendees (to planning meeting)</td>
-            <td colspan="1">  /  /  /  </td>
+            <td colspan="1"> All team members  </td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 2 – 2 Review Summary </td>
-            <td colspan="1">Se alcanzaron los objetivos del producto como la realización de todos los capítulos, el despliegue completo de la Landing Pague y la mayoría de información necesaria dentro del reporte, sin embargo, una de las tareas/objetivos más importantes que se debía alcanzar fue la presentación de un informa en formato pdf y word.</td>
+            <td colspan="1">Se alcanzaron los objetivos del sprint como la implementación del frontend y la actualización del capítulo 5 del informe..</td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 2 – 2 Retrospective Summary </td>
-            <td colspan="1">El sprint 1 fue ineficiente en términos de cooperación, se organizó mal el uso del tiempo y esto dio como resultado la entrega de un producto incompleto y para nada profesional.  como Team Leader mencionó puntos de mejora, siendo estos: "Más dedicación por parte de todo el equipo, reuniones diarias para analizar el desarrollo de vida del proyecto de software, más comunicación entre los integrantes del equipo y maximizar el uso de herramientas de software para manejar las tareas pendientes de cada sprint."</td>
+            <td colspan="1">El sprint 2 también fue ineficiente en términos de cooperación, se organizó mal el uso del tiempo y esto dio como resultado la entrega de un producto incompleto y para nada profesional. El Team Leader mencionó puntos de mejora, siendo estos: "Más dedicación por parte de todo el equipo, reuniones diarias para analizar el desarrollo de vida del proyecto de software, más comunicación entre los integrantes del equipo y maximizar el uso de herramientas de software para manejar las tareas pendientes de cada sprint."</td>
 		</tr>
          <tr>
 			<td colspan="2">Sprint Goal & User Stories </td>
@@ -580,11 +580,11 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Sprint 2 Velocity </td>
-            <td colspan="1">Para este sprint se han elegido 2 User Stories que tienen 5 Story points cada uno.</td>
+            <td colspan="1">Para este sprint se han elegido un User Stories que tiene 8 Story points y un User Stories que tiene 3 Story points </td>
 		</tr>
         <tr>
 			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1">25</td>
+            <td colspan="1">12</td>
 		</tr>
 </tbody>
 </table>
@@ -598,7 +598,7 @@ A continuación el sprint backlog 2:
 	<tbody>
 		<tr>
 			<td>Sprint #</td>
-			<td colspan="7">Sprint 1</td>
+			<td colspan="7">Sprint 2</td>
 		</tr>
 		<tr>
 			<td colspan="2">User Story</td>
