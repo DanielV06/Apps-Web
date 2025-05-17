@@ -569,7 +569,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
          <tr>
 			<td colspan="1">Sprint 2 – 2 Retrospective Summary </td>
-            <td colspan="1">El sprint 2 también fue ineficiente en términos de cooperación, se organizó mal el uso del tiempo y esto dio como resultado la entrega de un producto incompleto y para nada profesional. El Team Leader mencionó puntos de mejora, siendo estos: "Más dedicación por parte de todo el equipo, reuniones diarias para analizar el desarrollo de vida del proyecto de software, más comunicación entre los integrantes del equipo y maximizar el uso de herramientas de software para manejar las tareas pendientes de cada sprint."</td>
+            <td colspan="1">El sprint 2 resulto en una mejar en comparación aal anterior. Aunque el trabajo colaborativo y el uso del tiempo podrían mejorar, al final se pudo completar un trabajo funcional con el frontend implementado.</td>
 		</tr>
          <tr>
 			<td colspan="2">Sprint Goal & User Stories </td>
