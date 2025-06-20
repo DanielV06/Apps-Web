@@ -2314,6 +2314,4 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ![team-collab-ins-sprint1](img_graficas/Evidencia2.5.png))
 
-- - -
-
-- - -
+### 5.2.2. Sprint 3
