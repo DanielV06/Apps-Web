@@ -76,6 +76,18 @@ Para el desarrollo de la TP nos hemos dividido como equipo diferentes tareas par
 |Daniel Valdizán Grijalba | Implementación del Frontend |
 |Sebastián De Las Casas Latour | Actualización del capítulo 5 |
 
+## **TB2**
+
+Para el desarrollo de la TB2 nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
+
+| Integrante          | Tareas Asignadas |
+|:--------------------| :---- |
+| Roy Fernández Remón | Implementacion del backend |
+|Oskar Rodrigo Sosa   | Implementacion del backend |
+|Henry Diaz Gutierrez | Implementacion del backend |
+|Daniel Valdizán Grijalba | Implementacion del backend |
+|Sebastián De Las Casas Latour | Implementacion del backend |
+
 # Tabla de contenidos
 
 [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -83,6 +95,7 @@ Para el desarrollo de la TP nos hemos dividido como equipo diferentes tareas par
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [**TB1**](#tb1)
   - [**TP**](#tp)
+  - [**TB2**](#tb2)
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
