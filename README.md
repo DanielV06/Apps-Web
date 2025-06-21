@@ -2380,11 +2380,11 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 | Team Member (Last Name, First Name) | GitHub username | Backend implementacion Leader (L) / Colaborator (C)| 
 | :--- | :--- | :--- |
-| Roy Fernández Remón                 |                 | C     |
-| Daniel Valdizan Grijalba            |                 | L     |
-| Oskar Rodrigo Sosa Soto             |                 | C     |
-| Henry Kevin Diaz Gutierrez          |                 | C     |
-| Sebastián De Las Casas Latour       | U202213553      | C     |
+| Fernández Remón, Roy                |                 | C     |
+| Valdizan Grijalba, Daniel           |                 | L     |
+| Sosa Soto, Oskar Rodrigo            |                 | C     |
+| Diaz Gutierrez, Henry Kevin         |                 | C     |
+| De Las Casas Latour, Sebastián      | U202213553      | C     |
 
 #### 5.2.3.3. Sprint Backlog 3. 
 
