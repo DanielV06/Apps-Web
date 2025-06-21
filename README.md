@@ -2394,6 +2394,12 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ### 5.3.1. Diseño de Entrevistas. 
 
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
 ### 5.3.2. Registro de Entrevistas. 
 
 ### 5.3.3. Evaluaciones según heurísticas. 
