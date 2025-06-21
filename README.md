@@ -2378,6 +2378,14 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 #### 5.2.3.2. Aspect Leaders and Collaborators. 
 
+| Team Member (Last Name, First Name) | GitHub username | Backend implementacion Leader (L) / Colaborator (C)| 
+| :--- | :--- | :--- |
+| Roy Fernández Remón                 |                 | C     |
+| Daniel Valdizan Grijalba            |                 | L     |
+| Oskar Rodrigo Sosa Soto             |                 | C     |
+| Henry Kevin Diaz Gutierrez          |                 | C     |
+| Sebastián De Las Casas Latour       | U202213553      | C     |
+
 #### 5.2.3.3. Sprint Backlog 3. 
 
 En este tercer sprint, nos enfocamos en la implementación del backend y actualización del frontend, tomando en cuenta las observaciones del trabajo anterior.
