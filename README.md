@@ -2441,7 +2441,22 @@ Jefry Prado es un joven Productor Orgánico de 24 años y vive en el distrito de
 
 #### Entrevistas segmento 2: Consumidores 
 
+Datos del entrevistador: 
+- Nombres: Roy
+- Apellidos: Fernández Remón
 
+Datos de la entrevistada:
+- Nombres: Maryori
+- Apellidos: Atanacio
+- Edad: 23
+- Distrito de residencia: San Juan de Lurigancho
+- Enlace a la entrevista: "Luego colocaré el enlace"
+- Duración de la entrevista: "Luego colocaré el tiempo"
+- "Aquí irá la foto"
+
+Informe del resumen de la entrevista: 
+
+Maryori Atanacio es una joven Estudiante de 23 años y vive en el distrito de San Juan de Lurigancho.
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
