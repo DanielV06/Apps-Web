@@ -2460,5 +2460,28 @@ Maryori Atanacio es una joven Estudiante de 23 años y vive en el distrito de Sa
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
+Carrera: Ingeniería de Software 
+Curso: SI730 
+Profesor: Oscar Ivan Villafuerte Bazan 
+Auditor: Grupo 2 - GreenLogist 
+Cliente: "Grupo que auditaremos después" 
+
+Tareas a Evaluar 
+- Web Application
+- Registro de un nuevo usuario
+- Inicio de sesión de usuario existente
+- Registro de una reserva
+- Adaptabilidad a dispositivos móviles
+- Edición de datos
+- Mostrar listado de reservas
+- Prueba de buscador
+- Eliminación de datos
+- Botones de redirección
+- Sistema de suscripción
+
+Escala de severidad Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+
+
 ## 5.4. Video About-the-Product. 
 
