@@ -2316,6 +2316,62 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ### 5.2.3. Sprint 3 
 
-#### 5.2.3.1. Sprint Planning 2. 
+#### 5.2.3.1. Sprint Planning 3. 
 
 
+<table>
+  <thead>
+    <tr>
+      <th style="width:30%">Sprint #</th>
+      <th style="width:70%">Sprint 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" style="text-align: center; background-color: #1c2128;">Sprint Planning Background</th>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>18/06/2025</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>15:00 pm - 17:00 pm</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Modalidad remota a través de WhatsApp y Google Meets</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared By</strong></td>
+      <td>Roy Fernández Remón</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>Roy Fernández Remón<br>Daniel Valdizan Grijalba<br>Oskar Rodrigo Sosa Soto<br>Henry Kevin Diaz Gutierrez<br>Sebastián De Las Casas Latour</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Review Summary</strong></td>
+      <td>Durante el desarrollo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada satisfactoriamente. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Retrospective Summary</strong></td>
+      <td>El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa.</td>
+    </tr>
+    <tr>
+      <th colspan="2" style="text-align: center; background-color: #1c2128;">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Goal</strong></td>
+      <td>En este sprint se espera la implementación y deployado del front-end terminado y tener un buen avance del código del backend.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Velocity</strong></td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>
