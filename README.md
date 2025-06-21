@@ -2395,7 +2395,7 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 | :--- | :--- | :--- |
 | Fernández Remón, Roy                |                 | C     |
 | Valdizan Grijalba, Daniel           |                 | L     |
-| Sosa Soto, Oskar Rodrigo            |                 | C     |
+| Sosa Soto, Oskar Rodrigo            | u202212214      | C     |
 | Diaz Gutierrez, Henry Kevin         | HenryDiaz12     | C     |
 | De Las Casas Latour, Sebastián      | U202213553      | C     |
 
