@@ -2408,7 +2408,12 @@ Preguntas Productores orgánicos:
 - Como Productor Orgánico ¿Tienes alguna recomendación que ayude a mejorar la experiencia de uso de la aplicación?
 
 Preguntas para el Consumidor: 
-
+- ¿Qué característica te llama más la atención del aplicativo y por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de filtrar productos, su descripcion y detalles del Productor?
+- ¿Qué opinas sobre el diseño y la funcionalidad del carrito de compras, seguimiento de pedido y la sección para tus compras?
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Hay alguna cosa que le quitarías a la aplicación?
+- ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para adquirir productos orgánicos?
 
 
 ### 5.3.2. Registro de Entrevistas. 
