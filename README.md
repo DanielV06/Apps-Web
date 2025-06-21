@@ -2382,13 +2382,49 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 #### 5.2.3.4. Development Evidence for Sprint Review. 
 
+En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
+
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
+
+Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación. 
+
+Enlace del deploy de la web app: **"Aqui irá el enlace del deployado"**
+
+En el landing page se agregaron **"Se especifica todo lo que se agrego"**
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
+Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones de creación de usuarios, publicar productos orgánicos, visualizar sus productos comprados y carrito de compras. 
+
+Enlace del deploy de la web app: **"Aqui irá el enlace del deployado"** 
+
+Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones CRUD y otros metodos realizados en OpenApi. 
+
+Se adjunta el link del repositorio del backend en Github.: **"Aqui irá el enlace del repositorio"** 
+
+- **"Fotos de las API en Swagger"** 
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
+Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend. 
+
+Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. 
+
+Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. 
+
+GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. 
+
+Swagger Ui: Herramienta para probar y documentar nuestra API. 
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+Colaboración por alumno en la aplicación web: **"Aqui irá una tabla de colaboración"** 
+
+Tabla para poder identificarnos: **"Aqui irá una tabla para identificarnos en GitHub"** 
+
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub. 
+
+- **"Imagén de los commits"**
 
 ## 5.3. Validation Interviews. 
 
@@ -2460,11 +2496,11 @@ Maryori Atanacio es una joven Estudiante de 23 años y vive en el distrito de Sa
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
-Carrera: Ingeniería de Software 
-Curso: SI730 
-Profesor: Oscar Ivan Villafuerte Bazan 
-Auditor: Grupo 2 - GreenLogist 
-Cliente: "Grupo que auditaremos después" 
+- Carrera: Ingeniería de Software 
+- Curso: SI730 
+- Profesor: Oscar Ivan Villafuerte Bazan 
+- Auditor: Grupo 2 - GreenLogist 
+- Cliente: "Grupo que auditaremos después" 
 
 Tareas a Evaluar 
 - Web Application
