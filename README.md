@@ -2396,7 +2396,7 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 | Fernández Remón, Roy                |                 | C     |
 | Valdizan Grijalba, Daniel           |                 | L     |
 | Sosa Soto, Oskar Rodrigo            |                 | C     |
-| Diaz Gutierrez, Henry Kevin         |                 | C     |
+| Diaz Gutierrez, Henry Kevin         | HenryDiaz12     | C     |
 | De Las Casas Latour, Sebastián      | U202213553      | C     |
 
 #### 5.2.3.3. Sprint Backlog 3. 
