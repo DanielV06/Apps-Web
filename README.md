@@ -2400,6 +2400,17 @@ Para la validación de nuestro proyecto, hemos diseñado una serie de entrevista
 - ¿Dónde vives actualmente?
 - ¿A qué te dedicas?
 
+Preguntas Productores orgánicos: 
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño de nuestro panel de control y las multiples herramientas que ofrece?
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Hay alguna cosa que le quitarías a la aplicación?
+- Como Productor Orgánico ¿Tienes alguna recomendación que ayude a mejorar la experiencia de uso de la aplicación?
+
+Preguntas para el Consumidor: 
+
+
+
 ### 5.3.2. Registro de Entrevistas. 
 
 ### 5.3.3. Evaluaciones según heurísticas. 
