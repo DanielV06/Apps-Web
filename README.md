@@ -2380,6 +2380,72 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 #### 5.2.3.3. Sprint Backlog 3. 
 
+En este tercer sprint, nos enfocamos en la implementación del backend y actualización del frontend, tomando en cuenta las observaciones del trabajo anterior.
+A continuación el sprint backlog 3: 
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK010</td>
+			<td>Update Remote environment creation for Report and Landing Page</td>
+			<td>Organization, repositories and branch creation in GitHub</td>
+			<td>1</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK011</td>
+			<td>Update Chapter05</td>
+			<td>Update all section and add the respective information in chapter05</td>
+			<td>2</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK012</td>
+			<td>Backend implementation</td>
+			<td>Implement the app backend</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK013</td>
+			<td>Frontend update</td>
+			<td>Implement and update the app frontend</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+    <tbody>
+</table>
+
 #### 5.2.3.4. Development Evidence for Sprint Review. 
 
 En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
