@@ -2492,9 +2492,7 @@ Enlace del deploy de la web app: **"Aqui irá el enlace del deployado"**
 
 Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones CRUD y otros metodos realizados en OpenApi. 
 
-Se adjunta el link del repositorio del backend en Github.: **"Aqui irá el enlace del repositorio"** 
-
-- **"Fotos de las API en Swagger"** 
+Se adjunta el link del repositorio del backend en Github.: **["Aqui irá el enlace del repositorio"](https://github.com/DanielV06/Greenlogist-Backend)** 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
@@ -2543,6 +2541,8 @@ Preguntas para el Consumidor:
 
 
 ### 5.3.2. Registro de Entrevistas. 
+
+Enlace a las entrevistas: **["Enlace de las entrevistas"]( https://drive.google.com/drive/folders/12-7dSexr7vrXFDHWVDbT6c_t1gppefXt?usp=drive_link)** 
 
 #### Entrevistas segmento 1: Productores orgánicos 
 
