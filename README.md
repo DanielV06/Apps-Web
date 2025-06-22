@@ -48,7 +48,7 @@
 | :---- | :---- | :---- | :---- |
 | 1.0 | 26/04/2025  | Valdizán, Fernández, Rodrigo, Diaz. De Las Casas | Primera versión del informe |
 | 2.0 | 14/04/2025  | Valdizán, Fernández, Rodrigo, Diaz. De Las Casas | Segunda versión del informe |
-| | |    | |
+| 3.0 | 21/06/2025  | Valdizán, Fernández, Rodrigo, Diaz. De Las Casas | Tercera versión del informe |
 
 # Project Report Collaboration Insights
 
@@ -2616,4 +2616,4 @@ Escala de severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 ## 5.4. Video About-the-Product. 
 
-**["Enlace del video"]( https://www.canva.com/design/DAGrCabaJCA/KVjxPE0O9tj54aLkr5iPRg/edit?utm_content=DAGrCabaJCA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)** 
+**["Enlace del video"](https://drive.google.com/drive/folders/1CY-RKNsrXyZYylBIXImdUFHSs1iYSzRO?usp=sharing)** 
