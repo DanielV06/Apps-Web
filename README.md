@@ -2393,8 +2393,8 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 | Team Member (Last Name, First Name) | GitHub username | Backend implementacion Leader (L) / Colaborator (C)| 
 | :--- | :--- | :--- |
-| Fernández Remón, Roy                |                 | C     |
-| Valdizan Grijalba, Daniel           |                 | L     |
+| Fernández Remón, Roy                | YakuzaMeen      | C     |
+| Valdizan Grijalba, Daniel           | DanielV06       | L     |
 | Sosa Soto, Oskar Rodrigo            | u202212214      | C     |
 | Diaz Gutierrez, Henry Kevin         | HenryDiaz12     | C     |
 | De Las Casas Latour, Sebastián      | U202213553      | C     |
