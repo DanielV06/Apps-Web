@@ -2475,7 +2475,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 
 Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación. 
 
-Enlace del deploy de la web app: **["enlace del deployado"](https://peaceful-naiad-dc950d.netlify.app/#planes)**
+Enlace del deploy de la web app: **["Enlace del deployado"](https://peaceful-naiad-dc950d.netlify.app/#planes)**
 
 En el landing page se actualizó el diseño dde la página:
 
@@ -2488,7 +2488,7 @@ En el landing page se actualizó el diseño dde la página:
 
 Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones de creación de usuarios, publicar productos orgánicos, visualizar sus productos comprados y carrito de compras. 
 
-Enlace del deploy de la web app: **"Aqui irá el enlace del deployado"** 
+Enlace del deploy de la web app: **["Enlace del deployado"](https://peaceful-naiad-dc950d.netlify.app/#planes)**
 
 Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones CRUD y otros metodos realizados en OpenApi. 
 
@@ -2508,11 +2508,10 @@ Swagger Ui: Herramienta para probar y documentar nuestra API.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
-Colaboración por alumno en la aplicación web:
-![team-collab-ins-sprint3](img_graficas/Evidencia3.1.png))
-
 Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub. 
 
+Colaboración por alumno en la aplicación web:
+![team-collab-ins-sprint3](img_graficas/Evidencia3.1.png))
 
 ## 5.3. Validation Interviews. 
 
@@ -2617,3 +2616,4 @@ Escala de severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 ## 5.4. Video About-the-Product. 
 
+**["Enlace del video"]( https://www.canva.com/design/DAGrCabaJCA/KVjxPE0O9tj54aLkr5iPRg/edit?utm_content=DAGrCabaJCA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)** 
