@@ -2483,6 +2483,10 @@ En el landing page se actualizó el diseño dde la página:
 ![LandingPage](img_graficas/Evidencia3.3.png)
 ![LandingPage](img_graficas/Evidencia3.4.png)
 
+Además de la implementación parcial del backend:
+
+![LandingPage](img_graficas/Evidencia3.5.jpeg)
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
