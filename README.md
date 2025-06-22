@@ -2479,9 +2479,9 @@ Enlace del deploy de la web app: **["Enlace del deployado"](https://peaceful-nai
 
 En el landing page se actualizó el diseño dde la página:
 
-![LandingPage](img_graficas/Evidencia3.2.png))
-![LandingPage](img_graficas/Evidencia3.3.png))
-![LandingPage](img_graficas/Evidencia3.4.png))
+![LandingPage](img_graficas/Evidencia3.2.png)
+![LandingPage](img_graficas/Evidencia3.3.png)
+![LandingPage](img_graficas/Evidencia3.4.png)
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
