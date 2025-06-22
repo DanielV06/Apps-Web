@@ -2325,7 +2325,7 @@ Para esta entrega, el equipo logró implementar de manera exitosa el frontend we
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 
-![team-collab-ins-sprint1](img_graficas/Evidencia2.5.png))
+![team-collab-ins-sprint2](img_graficas/Evidencia2.5.png))
 
 ### 5.2.3. Sprint 3 
 
@@ -2475,9 +2475,14 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 
 Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación. 
 
-Enlace del deploy de la web app: **"Aqui irá el enlace del deployado"**
+Enlace del deploy de la web app: **["enlace del deployado"](https://peaceful-naiad-dc950d.netlify.app/#planes)**
 
-En el landing page se agregaron **"Se especifica todo lo que se agrego"**
+En el landing page se actualizó el diseño dde la página:
+
+![LandingPage](img_graficas/Evidencia3.2.png))
+![LandingPage](img_graficas/Evidencia3.3.png))
+![LandingPage](img_graficas/Evidencia3.4.png))
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
@@ -2505,13 +2510,11 @@ Swagger Ui: Herramienta para probar y documentar nuestra API.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
-Colaboración por alumno en la aplicación web: **"Aqui irá una tabla de colaboración"** 
-
-Tabla para poder identificarnos: **"Aqui irá una tabla para identificarnos en GitHub"** 
+Colaboración por alumno en la aplicación web:
+![team-collab-ins-sprint3](img_graficas/Evidencia3.1.png))
 
 Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub. 
 
-- **"Imagén de los commits"**
 
 ## 5.3. Validation Interviews. 
 
