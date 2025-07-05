@@ -2607,4 +2607,4 @@ Escala de severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 ## 5.4. Video About-the-Product. 
 
-**["Enlace del video"](https://drive.google.com/drive/folders/1CY-RKNsrXyZYylBIXImdUFHSs1iYSzRO?usp=sharing)** 
+**([https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link))** 
