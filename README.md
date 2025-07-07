@@ -2830,7 +2830,7 @@ Escala de severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 ## 5.4. Video About-the-Product. 
 
-|**`Link a video`**|>|([About-the-Product-video](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link) 
+|**`Link a video`**|>|[About-the-Product-video](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link) 
 |-----|----|----|
 # Conclusión
 
