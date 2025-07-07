@@ -2839,6 +2839,69 @@ Tabla de Resumen
 | 15 | En "Mi Perfil > Datos", los íconos junto a las etiquetas son inconsistentes. El más confuso es el ícono de candado junto a "Correo electrónico", que universalmente significa "contraseña", lo que puede confundir al usuario. | 1 | **Consistencia y estándares:** Los íconos y símbolos deben seguir las convenciones establecidas para que su significado sea inmediatamente reconocible. |
 | 16 | En "Configuración", el enlace para verificar el correo ("Verify now") no tiene un estilo que lo diferencie del texto normal. No parece un elemento interactivo, por lo que el usuario podría no darse cuenta de que debe hacer clic. | 2 | **Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores:** La solución al problema (el enlace para verificar) no es evidente. |
 
+Respecto a Registro e Inicio de Sesión: 
+
+![Captura de pantalla 2025-07-07 172020](https://github.com/user-attachments/assets/fc68861c-1513-4e84-a8b4-9d82340e2aed) 
+
+![Captura de pantalla 2025-07-07 172130](https://github.com/user-attachments/assets/b020c174-cef4-4625-b582-c956a72f21c8) 
+
+![Captura de pantalla 2025-07-07 172248](https://github.com/user-attachments/assets/6a04f6be-a743-4284-add6-82d1ab2bc66b) 
+
+![Captura de pantalla 2025-07-07 172305](https://github.com/user-attachments/assets/86bc5803-f574-4602-9c77-89be8fc4cb55) 
+
+
+Problema #1
+
+- Problema: En el formulario "Crear Cuenta", los dos campos de contraseña son idénticos ("Contraseña"). No se especifica que el segundo es para confirmación, lo que puede causar confusión.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Consistencia y estándares.
+
+- Recomendación: Cambiar la etiqueta del segundo campo a "Confirmar contraseña". Esto sigue una convención universalmente entendida y elimina cualquier ambigüedad para el usuario durante el registro.
+
+Problema #2
+
+- Problema: Las etiquetas de los campos ("Dirección de e-mail", "Contraseña") desaparecen al escribir. Si el usuario se distrae, debe borrar el campo para recordar qué información se le pedía.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Reconocimiento en lugar de recuerdo (Recognition rather than recall).
+
+- Recomendación: Implementar "etiquetas flotantes" (floating labels). La etiqueta debe empezar dentro del campo y, cuando el usuario hace clic para escribir, esta se anima y se mueve a una posición por encima del campo, permaneciendo siempre visible.
+
+Problema #3
+
+- Problema: El mensaje de error en el inicio de sesión ("Contraseña incorrecta") es demasiado específico. Confirma que el e-mail ingresado sí existe en la base de datos, lo cual es una vulnerabilidad de seguridad.
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores.
+
+- Recomendación: Modificar el mensaje de error para que sea genérico y no revele qué campo fue el incorrecto. Utilizar un texto como: "El correo o la contraseña son incorrectos". Esto protege la privacidad y seguridad de los usuarios registrados.
+
+Problema #4
+
+- Problema: No existe la opción de "mostrar/ocultar contraseña". Esto aumenta la probabilidad de que el usuario cometa errores de tipeo al no poder ver lo que escribe.
+
+- Severidad: 1 (Superficial).
+
+- Heurística violada: Prevención de errores.
+
+- Recomendación: Añadir un ícono de ojo (o similar) al lado de los campos de contraseña. Al hacer clic en él, se debe permitir al usuario ver u ocultar el texto que ha escrito, reduciendo la fricción y los posibles errores.
+
+Problema #5
+
+- Problema: El mensaje de error en "Crear Cuenta" ("¡Dato Obligatorio!") es genérico. No informa sobre otros posibles errores, como un formato de e-mail inválido.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores.
+
+- Recomendación: Implementar validaciones y mensajes de error específicos. Si el campo está vacío, "Campo obligatorio" es correcto. Si el formato es incorrecto, el mensaje debe ser "Por favor, ingrese un formato de correo válido".
+
+
+
 ## 5.4. Video About-the-Product. 
 
 |**`Link a video`**|>|[About-the-Product-video](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link) 
