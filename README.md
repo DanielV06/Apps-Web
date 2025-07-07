@@ -3075,3 +3075,4 @@ En conjunto, el equipo ha demostrado su capacidad para integrar diseño, desarro
 - Venmo (2021) Venmo Brand Guideline. Paypal, Inc. : https://venmo.com/about/brand/
 # Anexos
 - Anexo 1: [Figma del proyecto](https://www.figma.com/design/41WDtKvsAEetkbWrcTch0w/Greenlogist---Web-Applications?node-id=0-1&p=f&t=cVOQe9WfPXr9pKGL-0)
+- Anexo 2: Frontend y Backend desplegados [https://drive.google.com/drive/folders/161KxllXRJsqp9B8bJV9k1uUAaqYrE61f?usp=sharing](https://drive.google.com/drive/folders/161KxllXRJsqp9B8bJV9k1uUAaqYrE61f?usp=sharing)
