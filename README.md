@@ -2705,7 +2705,7 @@ Enlace del deploy de la web app: **["Enlace del deployado"](https://peaceful-nai
 
 Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones CRUD y otros metodos realizados en OpenApi. 
 
-Se adjunta el link del repositorio del backend en Github.: **["Aqui irá el enlace del repositorio"](https://github.com/DanielV06/Greenlogist-Backend)** 
+Se adjunta el link del repositorio del backend en Github.: **["Enlace del repositorio"](https://github.com/DanielV06/Greenlogist-Backend)** 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 
