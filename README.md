@@ -2530,6 +2530,196 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 Colaboración por alumno en la aplicación web:
 ![team-collab-ins-sprint3](img_graficas/Evidencia3.1.png))
 
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4. 
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:30%">Sprint #</th>
+      <th style="width:70%">Sprint 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" style="text-align: center; background-color: #1c2128;">Sprint Planning Background</th>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>18/06/2025</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>15:00 pm - 17:00 pm</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Modalidad remota a través de WhatsApp y Google Meets</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared By</strong></td>
+      <td>Roy Fernández Remón</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>Roy Fernández Remón<br>Daniel Valdizan Grijalba<br>Oskar Rodrigo Sosa Soto<br>Henry Kevin Diaz Gutierrez<br>Sebastián De Las Casas Latour</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 4 Review Summary</strong></td>
+      <td>Durante el desarrollo del Sprint 4, se logró implementar con éxito la web app, la cuál fue desplegada satisfactoriamente. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 4 Retrospective Summary</strong></td>
+      <td>El sprint 4 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa.</td>
+    </tr>
+    <tr>
+      <th colspan="2" style="text-align: center; background-color: #1c2128;">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Goal</strong></td>
+      <td>En este sprint se espera la implementación y deployado del front-end terminado y tener un buen avance del código del backend.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Velocity</strong></td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators. 
+
+| Team Member (Last Name, First Name) | GitHub username | Backend implementacion Leader (L) / Colaborator (C)| 
+| :--- | :--- | :--- |
+| Fernández Remón, Roy                | YakuzaMeen      | C     |
+| Valdizan Grijalba, Daniel           | DanielV06       | L     |
+| Sosa Soto, Oskar Rodrigo            | u202212214      | C     |
+| Diaz Gutierrez, Henry Kevin         | HenryDiaz12     | C     |
+| De Las Casas Latour, Sebastián      | U202213553      | C     |
+
+#### 5.2.4.3. Sprint Backlog 4. 
+
+En este tercer sprint, nos enfocamos en la implementación del backend y actualización del frontend, tomando en cuenta las observaciones del trabajo anterior.
+A continuación el sprint backlog 3: 
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 4</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK010</td>
+			<td>Update Remote environment creation for Report and Landing Page</td>
+			<td>Organization, repositories and branch creation in GitHub</td>
+			<td>1</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK011</td>
+			<td>Update Chapter05</td>
+			<td>Update all section and add the respective information in chapter05</td>
+			<td>2</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK012</td>
+			<td>Backend implementation</td>
+			<td>Implement the app backend</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK013</td>
+			<td>Frontend update</td>
+			<td>Implement and update the app frontend</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+    <tbody>
+</table>
+
+#### 5.2.4.4. Development Evidence for Sprint Review. 
+
+En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review. 
+
+Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación. 
+
+Enlace del deploy de la web app: **["Enlace del deployado"](https://peaceful-naiad-dc950d.netlify.app/#planes)**
+
+En el landing page se actualizó el diseño de la página:
+
+![LandingPage](img_graficas/Evidencia4.2.png)
+![LandingPage](img_graficas/Evidencia4.3.png)
+![LandingPage](img_graficas/Evidencia4.4.png)
+
+Además de la implementación parcial del backend:
+
+![LandingPage](img_graficas/Evidencia4.5.jpeg)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones de creación de usuarios, publicar productos orgánicos, visualizar sus productos comprados y carrito de compras. 
+
+Enlace del deploy de la web app: **["Enlace del deployado"](https://peaceful-naiad-dc950d.netlify.app/#planes)**
+
+Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones CRUD y otros metodos realizados en OpenApi. 
+
+Se adjunta el link del repositorio del backend en Github.: **["Aqui irá el enlace del repositorio"](https://github.com/DanielV06/Greenlogist-Backend)** 
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
+
+Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend. 
+
+Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. 
+
+Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. 
+
+GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. 
+
+Swagger Ui: Herramienta para probar y documentar nuestra API. 
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint. 
+
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub. 
+
+Colaboración por alumno en la aplicación web:
+![team-collab-ins-sprint3](img_graficas/Evidencia4.1.png))
+
 ## 5.3. Validation Interviews. 
 
 ### 5.3.1. Diseño de Entrevistas. 
