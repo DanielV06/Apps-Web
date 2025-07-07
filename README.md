@@ -88,6 +88,18 @@ Para el desarrollo de la TB2 nos hemos dividido como equipo diferentes tareas pa
 |Daniel Valdizán Grijalba | Implementacion del backend |
 |Sebastián De Las Casas Latour | Implementacion del backend |
 
+## **TF**
+
+Para el desarrollo del TF nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
+
+| Integrante          | Tareas Asignadas |
+|:--------------------| :---- |
+| Roy Fernández Remón | Ajustes finales y arreglos del backend |
+|Oskar Rodrigo Sosa   | Ajustes finales y arreglos del backend |
+|Henry Diaz Gutierrez | Ajustes finales y arreglos del backend |
+|Daniel Valdizán Grijalba | Ajustes finales y arreglos del backend |
+|Sebastián De Las Casas Latour | Ajustes finales y arreglos del backend |
+
 # Tabla de contenidos
 
 [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -96,6 +108,7 @@ Para el desarrollo de la TB2 nos hemos dividido como equipo diferentes tareas pa
   - [**TB1**](#tb1)
   - [**TP**](#tp)
   - [**TB2**](#tb2)
+  - [**TF**](#tf)
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
