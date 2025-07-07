@@ -2900,7 +2900,7 @@ Problema #5
 
 - Recomendación: Implementar validaciones y mensajes de error específicos. Si el campo está vacío, "Campo obligatorio" es correcto. Si el formato es incorrecto, el mensaje debe ser "Por favor, ingrese un formato de correo válido".
 
-Respecto a Pantalla de vista del cliente 
+Respecto a Pantalla de vista del cliente: 
 
 ![Captura de pantalla 2025-07-07 172810](https://github.com/user-attachments/assets/c62f4459-0690-4d50-a737-ec43060039a5) 
 
@@ -2982,9 +2982,63 @@ Problema #11
 
 - Recomendación: Si la funcionalidad de chat no está implementada, se debe eliminar el botón que la activa. Si es solo un prototipo visual, debe ser reemplazado por la funcionalidad real o, como mínimo, permitir que el usuario la cierre (ej. con un ícono "X").
 
+Respecto a Configuración: 
 
+![Captura de pantalla 2025-07-07 173034](https://github.com/user-attachments/assets/c0b5b6c1-bb1d-4f04-a39d-17955493013d)
 
+![Captura de pantalla 2025-07-07 173715](https://github.com/user-attachments/assets/42f3c669-ed8d-4483-92fd-6af90a6d6855)
 
+![Captura de pantalla 2025-07-07 173724](https://github.com/user-attachments/assets/0072817d-aa41-4216-a2cb-9fce6fa12290)
+
+Problema #12
+
+- Problema: En "Configuración", hay una mezcla de idiomas (español e inglés) y opciones obsoletas ("Google+") o irrelevantes ("Listening exercises").
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Coincidencia entre el sistema y el mundo real.
+
+- Recomendación: Estandarizar todo el texto de la interfaz a un solo idioma (español). Revisar y eliminar todas las opciones que sean de relleno, obsoletas o que no correspondan a la funcionalidad de la aplicación.
+
+Problema #13
+
+- Problema: En "Mi Perfil > Preferencias", no queda claro si el botón "Aplicar" de cada filtro guarda los cambios o si, además, se debe presionar "Guardar cambios".
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Visibilidad del estado del sistema.
+
+- Recomendación: Eliminar los botones "Aplicar" y "Borrar" de cada filtro individual. Dejar únicamente el botón global "Guardar cambios" al final de la página para que el usuario guarde todas sus preferencias de una sola vez, creando un punto de guardado único y claro.
+
+Problema #14
+
+- Problema: La gestión de pagos en "Configuración" está fragmentada y su arquitectura no es intuitiva.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Diseño estético y minimalista.
+
+- Recomendación: Reorganizar la página "Configuración". Crear una sección única llamada "Pagos y Facturación" donde se agrupen la gestión de métodos de pago, la dirección de facturación, el historial de transacciones y las configuraciones de seguridad relacionadas (como el PIN).
+
+Problema #15
+
+- Problema: En "Mi Perfil", el ícono de candado junto a "Correo electrónico" es confuso, ya que universalmente se asocia a contraseñas.
+
+- Severidad: 1 (Superficial).
+
+- Heurística violada: Consistencia y estándares.
+
+- Recomendación: Reemplazar el ícono de candado por un ícono de arroba (@) o un sobre, que son los símbolos convencionales para representar un correo electrónico. Asegurar que todos los íconos sean consistentes y aporten valor.
+
+Problema #16
+
+- Problema: En "Configuración", el enlace "Verify now" no tiene un estilo que lo haga parecer un elemento interactivo.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores.
+
+- Recomendación: Darle al enlace un estilo visual claro que indique que se puede hacer clic. Como mínimo, debe tener el color azul estándar de los hipervínculos y, preferiblemente, un subrayado para máxima claridad.
 
 
 
