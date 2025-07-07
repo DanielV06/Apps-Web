@@ -2900,6 +2900,92 @@ Problema #5
 
 - Recomendación: Implementar validaciones y mensajes de error específicos. Si el campo está vacío, "Campo obligatorio" es correcto. Si el formato es incorrecto, el mensaje debe ser "Por favor, ingrese un formato de correo válido".
 
+Respecto a Pantalla de vista del cliente 
+
+![Captura de pantalla 2025-07-07 172810](https://github.com/user-attachments/assets/c62f4459-0690-4d50-a737-ec43060039a5) 
+
+![Captura de pantalla 2025-07-07 172829](https://github.com/user-attachments/assets/e498e19e-9194-4654-92c3-071a8282464d) 
+
+![Captura de pantalla 2025-07-07 172844](https://github.com/user-attachments/assets/f87cd124-9d66-4d75-bd63-dc13439c30f9) 
+
+![Captura de pantalla 2025-07-07 172859](https://github.com/user-attachments/assets/6745aff2-d6bc-498b-8f52-ad77b403c0b8) 
+
+![Captura de pantalla 2025-07-07 172911](https://github.com/user-attachments/assets/a3dc7d0e-b1fb-4f1b-94a2-4f964d8e3842)
+
+![Captura de pantalla 2025-07-07 172924](https://github.com/user-attachments/assets/1a64c227-90e6-4180-85ae-65c0f69d3400) 
+
+![Captura de pantalla 2025-07-07 172936](https://github.com/user-attachments/assets/6646f8a0-301a-411b-a06c-73dbb4112486)
+
+![Captura de pantalla 2025-07-07 172951](https://github.com/user-attachments/assets/1a823571-3052-4468-94d5-d7ae6cb260eb)
+
+![Captura de pantalla 2025-07-07 173005](https://github.com/user-attachments/assets/4d9c786e-7ffb-4890-9e1c-3b2fc811136a)
+
+![Captura de pantalla 2025-07-07 173020](https://github.com/user-attachments/assets/c217ccda-d3e1-4868-bf5d-900152a50a81)
+
+Problema #6
+
+- Problema: En la pantalla "Inicio", los datos de los paneles no son coherentes ni realistas (ej. el medidor gráfico de "Técnicos Contactados"), lo que genera desconfianza.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Coincidencia entre el sistema y el mundo real.
+
+- Recomendación: Asegurarse de que los datos de muestra (o reales) sean lógicos. Para el medidor, se podría usar un gráfico de barras o dos números claros ("Respondieron: 7", "Contratados: 4") en lugar de un medidor que no representa bien la relación.
+
+Problema #7
+
+- Problema: En el formulario "Crear Oferta", el texto legal de las casillas de autorización es muy pequeño y difícil de leer.
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Diseño estético y minimalista.
+
+- Recomendación: Aumentar el tamaño de la fuente del texto legal a un tamaño legible. Considerar mostrar un resumen breve y un enlace a una página de "Términos y Condiciones" para el texto completo, en lugar de ponerlo todo en la misma vista.
+
+Problema #8
+
+- Problema: El proceso de pago se ejecuta sin que el usuario haya ingresado o seleccionado un método de pago.
+
+- Severidad: 4 (Muy Grave).
+
+- Heurística violada: Control y libertad del usuario.
+
+- Recomendación: Diseñar e implementar un flujo de pago completo. Esto debe incluir: 1) Una sección para agregar y gestionar métodos de pago. 2) Permitir al usuario seleccionar un método de pago antes de confirmar. 3) Mostrar un resumen del pago antes de la confirmación final.
+
+Problema #9
+
+- Problema: En la vista de "Ofertas Finalizadas", el contenido de la reseña es irrelevante (habla de mascotas) y está en otro idioma.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Coincidencia entre el sistema y el mundo real.
+
+- Recomendación: Reemplazar todos los textos de muestra (lorem ipsum o placeholders) con contenido que sea coherente y relevante para el contexto de la aplicación, incluso si son datos ficticios.
+
+Problema #10
+
+- Problema: En "Comparar Perfiles", la información sobre los "Años de experiencia" se muestra dos veces de forma redundante.
+
+- Severidad: 1 (Superficial).
+
+- Heurística violada: Diseño estético y minimalista.
+
+- Recomendación: Eliminar la redundancia. Mantener una sola visualización para los años de experiencia. La opción más limpia sería el texto simple ("14 años") sin la caja de color adicional.
+
+Problema #11
+
+- Problema: La ventana de chat en "Ofertas" es una imagen estática que bloquea el contenido de detrás y no se puede cerrar.
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Control y libertad del usuario.
+
+- Recomendación: Si la funcionalidad de chat no está implementada, se debe eliminar el botón que la activa. Si es solo un prototipo visual, debe ser reemplazado por la funcionalidad real o, como mínimo, permitir que el usuario la cierre (ej. con un ícono "X").
+
+
+
+
+
 
 
 ## 5.4. Video About-the-Product. 
