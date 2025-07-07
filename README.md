@@ -2503,7 +2503,7 @@ A continuación el sprint backlog 3:
 
 #### 5.2.3.4. Development Evidence for Sprint Review. 
 
-En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
 
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
 
@@ -2687,7 +2687,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 
 #### 5.2.4.5. Execution Evidence for Sprint Review. 
 
-Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación. 
+Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el backend del web app y una actualización del frontend. 
 
 Enlace del deploy de la web app: **["Enlace del deployado"](https://peaceful-naiad-dc950d.netlify.app/#planes)**
 
@@ -2699,7 +2699,7 @@ En el landing page se actualizó el diseño de la página:
 
 Además de la implementación parcial del backend:
 
-![LandingPage](img_graficas/Evidencia4.5.jpeg)
+![LandingPage](img_graficas/Evidencia4.5.png)
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
