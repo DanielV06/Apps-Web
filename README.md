@@ -3040,7 +3040,7 @@ Problema #16
 
 ## 5.4. Video About-the-Product. 
 
-|**`Link a video`**|>|[About-the-Product-video](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link) 
+|**`Link a video`**|>|[https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link) 
 |-----|----|----|
 # Conclusión
 
@@ -3051,7 +3051,7 @@ En conjunto, el equipo ha demostrado su capacidad para integrar diseño, desarro
 
 ## Video About-the-Team.
 
-|**`Link a video`**|>|[About-the-Team-video](https://www.canva.com/design/DAGrCabaJCA/KVjxPE0O9tj54aLkr5iPRg/edit)|
+|**`Link a video`**|>|[https://www.canva.com/design/DAGrCabaJCA/KVjxPE0O9tj54aLkr5iPRg/edit](https://www.canva.com/design/DAGrCabaJCA/KVjxPE0O9tj54aLkr5iPRg/edit)|
 |-----|----|----|
 
 # Bibliografía
