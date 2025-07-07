@@ -2748,7 +2748,7 @@ Preguntas para el Consumidor:
 
 ### 5.3.2. Registro de Entrevistas. 
 
-Enlace a las entrevistas: **["Enlace de las entrevistas"]( https://drive.google.com/drive/folders/12-7dSexr7vrXFDHWVDbT6c_t1gppefXt?usp=drive_link)** 
+Enlace a las entrevistas: **["Enlace de las entrevistas"]( https://drive.google.com/drive/folders/1J5lqqSUoZRRuqkAamMh8aB6R2MCH0wjg?usp=sharing)** 
 
 #### Entrevistas segmento 1: Productores orgánicos 
 
