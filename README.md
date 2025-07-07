@@ -226,15 +226,35 @@ Para el desarrollo del TF nos hemos dividido como equipo diferentes tareas para 
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#521-sprint-2)
-      - [5.2.2.1. Sprint Planning 2.](#5211-sprint-planning-2)
-      - [5.2.2.2. Sprint Backlog 2.](#5212-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2.](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3.](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3.](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4.](#5211-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4.](#5212-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review.](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
+
+
 
 # Student Outcome
 
@@ -2810,4 +2830,21 @@ Escala de severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 ## 5.4. Video About-the-Product. 
 
-**([https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link))** 
+|**`Link a video`**|>|**([About-the-Product](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link))** 
+
+# Conclusión
+
+- A lo largo del ciclo de vida del proyecto GreenLogist, el equipo ha demostrado su capacidad para traducir requisitos en soluciones funcionales, desarrollando tanto la Landing Page como el frontend de la Web Application con un enfoque sólido y estructurado. Desde las primeras etapas, la implementación de la Landing Page sirvió como una piedra angular, ofreciendo una experiencia de usuario atractiva y coherente que traduce los objetivos del proyecto en un diseño visual efectivo. Este logro inicial sentó las bases para las etapas posteriores del proyecto, incluyendo el desarrollo de la Web Application.
+El enfoque ágil adoptado permitió al equipo adaptarse a cambios y desafíos con eficiencia, facilitando la implementación de funcionalidades planificadas de manera progresiva. Herramientas como GitHub jugaron un papel crucial, permitiendo una planificación detallada, seguimiento eficiente y colaboración continua. La colaboración fue el eje central del proyecto, ya que permitió a los miembros del equipo compartir conocimientos, resolver problemas en conjunto y aprovechar al máximo sus habilidades, fortaleciendo el esfuerzo colectivo.
+La elección de tecnologías clave, como Spring Boot para el backend, simplificó la creación de servicios RESTful. Estos servicios no solo garantizan interacciones rápidas y seguras con el frontend, sino que también están respaldados por una estructura modular basada en patrones de diseño como el de repositorio y el de servicio. Esto ha permitido desarrollar un backend escalable y organizado, asegurando que la solución sea sostenible y extensible en el futuro.
+En conjunto, el equipo ha demostrado su capacidad para integrar diseño, desarrollo y gestión de proyectos en cada etapa. Desde una Landing Page funcional y atractiva hasta la implementación de endpoints eficientes, cada fase del proyecto ha contribuido a cumplir los objetivos establecidos, mostrando un equilibrio entre creatividad, técnica y colaboración. Este enfoque refuerza la preparación del equipo para completar las etapas futuras del proyecto con éxito.
+
+## Video About-the-Team.
+
+|**`Link a video`**|>|[about-the-team-video]()|
+|-----|----|----|
+
+# Bibliografía
+- Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
+- Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
+- Venmo (2021) Venmo Brand Guideline. Paypal, Inc. : https://venmo.com/about/brand/
