@@ -2849,3 +2849,5 @@ En conjunto, el equipo ha demostrado su capacidad para integrar diseño, desarro
 - Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
 - Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
 - Venmo (2021) Venmo Brand Guideline. Paypal, Inc. : https://venmo.com/about/brand/
+# Anexos
+- Anexo 1: [Figma del proyecto](https://www.figma.com/design/41WDtKvsAEetkbWrcTch0w/Greenlogist---Web-Applications?node-id=0-1&p=f&t=cVOQe9WfPXr9pKGL-0)
