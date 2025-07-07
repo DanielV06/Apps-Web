@@ -2626,7 +2626,7 @@ Colaboración por alumno en la aplicación web:
 #### 5.2.4.3. Sprint Backlog 4. 
 
 En este tercer sprint, nos enfocamos en la implementación del backend y actualización del frontend, tomando en cuenta las observaciones del trabajo anterior.
-A continuación el sprint backlog 3: 
+A continuación el sprint backlog 4: 
 
 <table>
 	<tbody>
@@ -2651,17 +2651,7 @@ A continuación el sprint backlog 3:
 		<tr>
 			<td></td>
 			<td></td>
-			<td>TSK010</td>
-			<td>Update Remote environment creation for Report and Landing Page</td>
-			<td>Organization, repositories and branch creation in GitHub</td>
-			<td>1</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK011</td>
+			<td>TSK014</td>
 			<td>Update Chapter05</td>
 			<td>Update all section and add the respective information in chapter05</td>
 			<td>2</td>
@@ -2671,8 +2661,8 @@ A continuación el sprint backlog 3:
 		<tr>
 			<td></td>
 			<td></td>
-			<td>TSK012</td>
-			<td>Backend implementation</td>
+			<td>TSK015</td>
+			<td>Backend final update and implementation</td>
 			<td>Implement the app backend</td>
 			<td>5</td>
 			<td>All team members</td>
@@ -2681,7 +2671,7 @@ A continuación el sprint backlog 3:
 		<tr>
 			<td></td>
 			<td></td>
-			<td>TSK013</td>
+			<td>TSK016</td>
 			<td>Frontend update</td>
 			<td>Implement and update the app frontend</td>
 			<td>5</td>
