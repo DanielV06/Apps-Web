@@ -2683,7 +2683,7 @@ A continuación el sprint backlog 4:
 
 #### 5.2.4.4. Development Evidence for Sprint Review. 
 
-![LandingPage](img_graficas/Evidencia4.2.png)
+![Endpoints](img_graficas/Evidencia4.2.png)
 
 #### 5.2.4.5. Execution Evidence for Sprint Review. 
 
@@ -2697,10 +2697,9 @@ La web app con el backend implementado y funcionando:
 ![LandingPage](img_graficas/Evidencia4.4.png)
 ![LandingPage](img_graficas/Evidencia4.5.png)
 
-
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
 
-Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones de creación de usuarios, publicar productos orgánicos, visualizar sus productos comprados y carrito de compras. 
+Para esta entrega, el equipo de GreenLogist logró implementar de manera exitosa el backend del web app, la cual permitirá el funcionamiento de las características de la web app. 
 
 Enlace del deploy de la web app: **["Enlace del deployado"](https://peaceful-naiad-dc950d.netlify.app/#planes)**
 
@@ -2710,15 +2709,9 @@ Se adjunta el link del repositorio del backend en Github.: **["Aqui irá el enla
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 
-Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend. 
+Para el presente sprint, se ha desarollado e implementado el backend de la web application.
 
-Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. 
-
-Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. 
-
-GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. 
-
-Swagger Ui: Herramienta para probar y documentar nuestra API. 
+![Endpoints](img_graficas/Evidencia4.2.png)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. 
 
