@@ -2399,7 +2399,7 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
     </tr>
     <tr>
       <td><strong>Sprint 3 Review Summary</strong></td>
-      <td>Durante el desarrollo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada satisfactoriamente. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+      <td>Durante el desarrollo del Sprint 3, se logró implementar con éxito la web app, la cuál fue desplegada satisfactoriamente. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
     </tr>
     <tr>
       <td><strong>Sprint 3 Retrospective Summary</strong></td>
