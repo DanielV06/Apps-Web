@@ -2830,8 +2830,8 @@ Escala de severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 ## 5.4. Video About-the-Product. 
 
-|**`Link a video`**|>|**([About-the-Product](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link))** 
-
+|**`Link a video`**|>|([About-the-Product-video](https://drive.google.com/file/d/1xoZi6X9dHHsH6v8041Fjyy_GY9iKTRxK/view?usp=drive_link) 
+|-----|----|----|
 # Conclusión
 
 - A lo largo del ciclo de vida del proyecto GreenLogist, el equipo ha demostrado su capacidad para traducir requisitos en soluciones funcionales, desarrollando tanto la Landing Page como el frontend de la Web Application con un enfoque sólido y estructurado. Desde las primeras etapas, la implementación de la Landing Page sirvió como una piedra angular, ofreciendo una experiencia de usuario atractiva y coherente que traduce los objetivos del proyecto en un diseño visual efectivo. Este logro inicial sentó las bases para las etapas posteriores del proyecto, incluyendo el desarrollo de la Web Application.
@@ -2841,7 +2841,7 @@ En conjunto, el equipo ha demostrado su capacidad para integrar diseño, desarro
 
 ## Video About-the-Team.
 
-|**`Link a video`**|>|[about-the-team-video]()|
+|**`Link a video`**|>|[About-the-Team-video](https://www.canva.com/design/DAGrCabaJCA/KVjxPE0O9tj54aLkr5iPRg/edit)|
 |-----|----|----|
 
 # Bibliografía
