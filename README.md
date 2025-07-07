@@ -2779,6 +2779,8 @@ Datos de la entrevistada:
 - Edad: 23
 - Distrito de residencia: San Juan de Lurigancho
 
+![image](https://github.com/user-attachments/assets/e4ff7357-4f5e-4ea2-bf47-1267a369fdd5)
+
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
