@@ -2764,6 +2764,9 @@ Datos del entrevistado:
 - Edad: 24
 - Distrito de residencia: San Juan de Lurigancho
 
+![image](https://github.com/user-attachments/assets/d8aa5577-5d05-4be2-adfe-b484fe56182d)
+
+
 #### Entrevistas segmento 2: Consumidores 
 
 Datos del entrevistador: 
