@@ -2804,7 +2804,7 @@ Datos de la entrevistada:
 - Curso: SI730 
 - Profesor: Oscar Ivan Villafuerte Bazan 
 - Auditor: Grupo 2 - GreenLogist 
-- Cliente: "Grupo que auditaremos después" 
+- Cliente: "Grupo 3 - Tuchambape" 
 
 Tareas a Evaluar 
 - Web Application
